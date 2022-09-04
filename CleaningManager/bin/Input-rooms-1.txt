@@ -1,0 +1,11 @@
+ROOM_ID,LENGTH,WIDTH
+Office,20,20
+Lunch Room,30,25
+Game Room,22,24
+Living Room,15,20
+Gym,50,50
+Closet,5,8
+Bedroom,14,20
+Hallway,10,10
+Attic,30,17
+Bathroom,10,10
