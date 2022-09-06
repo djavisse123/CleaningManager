@@ -1,0 +1,4097 @@
+ROOM_ID,LENGTH,WIDTH
+Breakfast Area 12,47,39
+Bathroom 85,10,22
+Hallway 78,19,15
+Utility Room 57,49,28
+Dining Room 35,9,30
+Utility Room 21,21,20
+Storage 28,23,21
+Walk-in Closet 49,8,44
+Parlor 59,13,48
+Ballroom 78,44,29
+Panic Room 29,39,46
+Nursery 89,29,16
+Breakfast Area 8,33,8
+Breakfast Area 86,31,39
+Walk-in Closet 60,15,14
+Mud Room 78,24,25
+Music Room 22,44,10
+Theater 20,44,28
+Closet 3,18,30
+Nook 61,5,11
+Breakfast Area 63,9,23
+Music Room 76,44,41
+Hallway 29,18,4
+Laundry Room 57,2,48
+Sun Room 21,14,13
+Linen Closet 65,44,28
+Attic 32,28,21
+Garage 46,39,20
+Secret Room 47,34,35
+Game Room 69,16,25
+Theater 69,28,8
+Basement 9,12,32
+Bonus Room 41,17,11
+Basement 10,24,18
+Ballroom 72,32,6
+Bonus Room 67,10,12
+Study 63,3,34
+Conservatory 55,13,17
+Living Room 3,15,4
+Bathroom 49,39,28
+Nook 53,50,5
+Library 66,11,20
+Bedroom 67,21,19
+Sun Room 83,14,15
+Exercise Room 52,26,19
+Bonus Room 79,32,45
+Garage 84,36,50
+Den 12,31,40
+Panic Room 41,22,24
+Sun Room 39,36,22
+Study 76,20,3
+Bedroom 11,36,46
+Parlor 2,45,35
+Loft 8,47,19
+Conservatory 82,29,28
+Closet 65,13,6
+Wine Cellar 71,29,20
+Bar 46,47,46
+Laundry Room 40,20,39
+Keeping Room 22,43,36
+Dining Room 52,42,44
+Pantry 85,12,25
+Game Room 84,12,33
+Nook,48,49
+Secret Room 28,20,31
+Entryway 50,39,18
+Closet 54,23,16
+Music Room 71,1,8
+Nursery 4,49,3
+Bathroom 75,29,25
+Dining Room 23,44,41
+Secret Room 16,44,21
+Conservatory 38,3,2
+Nursery 11,29,8
+Wine Cellar 22,37,35
+Hallway 85,41,36
+Foyer 86,49,32
+Walkway 49,15,11
+Spare Room 73,5,20
+Music Room 44,22,22
+Study 3,43,36
+Loft 70,42,2
+Foyer 26,27,50
+Hallway 14,37,19
+Loft 65,1,17
+Game Room 35,15,17
+Ballroom 59,42,3
+Powder Room 84,1,22
+Walkway 9,42,17
+Library 84,36,35
+Nursery 31,39,13
+Ballroom 47,11,49
+Walk-in Closet 85,32,46
+Ballroom 66,35,10
+Office 59,47,13
+Spare Room 19,36,50
+Utility Room 71,13,31
+Study 33,6,1
+Powder Room 72,49,13
+Wine Cellar 46,28,3
+Music Room 47,15,21
+Bedroom 38,24,5
+Study 88,46,26
+Den 7,38,25
+Breakfast Area 4,43,9
+Ballroom 9,17,48
+Sun Room 36,31,27
+Parlor 77,7,25
+Powder Room 81,6,48
+Theater 43,38,26
+Exercise Room 39,43,17
+Foyer 51,13,16
+Foyer 85,45,42
+Entryway 79,47,33
+Exercise Room 25,17,26
+Bonus Room 84,3,40
+Wine Cellar 31,8,35
+Ballroom 21,36,9
+Hallway 47,11,6
+Secret Room 17,32,48
+Secret Room 65,10,29
+Den 49,5,38
+Garage 86,28,10
+Living Room 57,45,41
+Library 30,8,20
+Powder Room 21,14,13
+Basement 37,35,39
+Music Room 82,35,26
+Garage 28,44,11
+Powder Room 2,33,7
+Sun Room 66,39,12
+Keeping Room 89,47,19
+Utility Room 54,30,44
+Loft 20,9,47
+Study 79,2,11
+Parlor 27,34,47
+Entryway 46,43,49
+Loft 47,10,42
+Bathroom 7,49,20
+Walkway 42,24,11
+Utility Room 68,38,37
+Panic Room 18,7,5
+Hallway 15,45,22
+Storage 27,13,32
+Study 46,50,25
+Theater 39,20,39
+Spare Room 50,40,3
+Basement 88,28,36
+Conservatory 87,44,33
+Nursery 43,27,26
+Exercise Room 60,2,39
+Foyer 42,21,50
+Bar 37,40,31
+Office 87,36,40
+Dining Room 43,11,3
+Exercise Room 56,36,3
+Kitchen 6,42,50
+Library 70,42,30
+Guest Bathroom 76,22,38
+Hallway 53,38,39
+Panic Room 75,35,38
+Mud Room 79,2,29
+Bathroom 40,50,15
+Keeping Room 10,14,7
+Foyer 62,44,27
+Garage 38,24,7
+Wine Cellar 2,42,33
+Guest Bathroom 21,30,17
+Bonus Room 59,33,29
+Theater 60,36,3
+Conservatory 42,25,36
+Walk-in Closet 73,6,1
+Pantry 41,28,3
+Bar 87,19,21
+Nook 50,4,25
+Loft 9,29,38
+Music Room 48,46,15
+Powder Room 23,12,21
+Garage 88,2,49
+Storage 29,21,10
+Basement 31,8,30
+Walk-in Closet 26,24,6
+Guest Bedroom 7,9,20
+Living Room 42,17,46
+Nursery 48,26,18
+Bedroom 2,38,2
+Conservatory 2,49,33
+Breakfast Area 56,50,2
+Game Room 26,19,33
+Library 4,19,35
+Den 61,6,19
+Music Room 68,39,38
+Ballroom 62,33,45
+Pantry 4,33,49
+Secret Room 62,49,15
+Dining Room 27,20,4
+Bar 5,27,46
+Keeping Room 45,28,35
+Library 36,17,17
+Office 77,43,40
+Nook 6,12,38
+Sun Room 28,30,34
+Living Room 33,43,39
+Guest Bathroom 49,31,42
+Closet 36,30,5
+Keeping Room 1,26,14
+Garage 24,50,6
+Parlor 1,4,6
+Laundry Room 36,37,2
+Bonus Room 34,44,16
+Panic Room 36,7,19
+Sun Room 82,40,31
+Laundry Room 70,11,40
+Walk-in Closet 56,1,31
+Conservatory 34,24,41
+Ballroom 50,10,48
+Hallway 59,38,10
+Utility Room 53,8,40
+Closet 28,29,43
+Den 23,18,14
+Panic Room 53,48,28
+Foyer 28,23,7
+Pantry 62,49,42
+Guest Bathroom 67,19,32
+Pantry 76,3,29
+Walkway 44,49,24
+Foyer 11,47,10
+Theater 40,6,9
+Kitchen,2,13
+Pantry 38,6,5
+Music Room 49,40,38
+Spare Room 15,15,16
+Den 39,15,14
+Bedroom 24,33,28
+Living Room 36,6,47
+Closet 67,12,18
+Sun Room 16,6,41
+Breakfast Area 1,24,18
+Theater 17,46,43
+Exercise Room 20,49,3
+Ballroom 44,25,7
+Foyer 55,21,36
+Bathroom 6,11,3
+Wine Cellar 57,15,28
+Theater 87,7,48
+Hallway 28,21,50
+Office 30,41,37
+Panic Room 59,32,38
+Hallway 54,30,5
+Office 4,3,11
+Living Room 51,37,29
+Pantry,19,1
+Entryway 69,7,28
+Dining Room 18,12,49
+Garage 82,37,27
+Secret Room 61,21,26
+Guest Bathroom 29,47,22
+Office 80,26,29
+Guest Bathroom 45,6,8
+Conservatory 37,30,9
+Sun Room 84,46,7
+Game Room 2,5,44
+Study 18,11,3
+Garage 35,17,14
+Nook 8,10,40
+Music Room 29,28,45
+Ballroom 51,6,22
+Study 9,21,49
+Bonus Room 50,20,13
+Ballroom 24,36,14
+Entryway 74,4,31
+Attic 49,10,48
+Foyer 88,25,23
+Bonus Room 35,20,31
+Keeping Room 87,33,38
+Pantry 1,27,33
+Living Room 43,33,30
+Bonus Room 83,20,39
+Game Room 88,16,9
+Spare Room 82,29,11
+Walk-in Closet 21,42,16
+Secret Room 42,31,22
+Closet 69,34,25
+Garage 6,22,19
+Parlor 83,20,4
+Foyer 29,8,34
+Library 82,49,14
+Guest Bedroom 28,1,21
+Utility Room 29,24,45
+Panic Room 3,7,45
+Utility Room 6,36,34
+Hallway 69,47,3
+Pantry 24,27,47
+Pantry 34,23,41
+Ballroom 67,16,17
+Breakfast Area 64,45,7
+Bonus Room 43,28,40
+Utility Room 80,49,38
+Office 71,3,16
+Keeping Room 82,28,41
+Loft 2,50,34
+Nook 86,22,42
+Linen Closet 9,6,9
+Living Room 67,31,27
+Conservatory 54,27,26
+Nook 35,24,13
+Basement 64,4,46
+Game Room 74,7,15
+Bathroom 2,13,12
+Hallway 57,50,21
+Basement 49,29,48
+Den 18,28,25
+Dining Room 64,9,44
+Basement 69,7,15
+Breakfast Area 29,24,24
+Conservatory 61,17,2
+Parlor 39,44,22
+Mud Room 47,37,19
+Bathroom 16,16,15
+Breakfast Area 13,39,28
+Linen Closet 49,35,7
+Pantry 64,36,17
+Walk-in Closet 82,26,23
+Loft 1,1,44
+Pantry 19,50,18
+Powder Room 68,19,26
+Office 81,32,49
+Garage 78,22,36
+Entryway 47,35,33
+Linen Closet 54,10,14
+Exercise Room 59,11,13
+Loft 23,17,36
+Library 76,48,11
+Pantry 61,22,9
+Office 1,33,45
+Loft 84,16,9
+Bathroom 17,29,50
+Guest Bathroom 40,46,6
+Foyer 52,31,41
+Nook 54,40,40
+Entryway 78,42,24
+Kitchen 83,21,17
+Garage 61,47,31
+Dining Room 84,30,41
+Bonus Room 55,44,27
+Wine Cellar 34,18,26
+Nook 58,28,5
+Secret Room 24,41,9
+Kitchen 29,4,7
+Dining Room 19,40,36
+Music Room 32,18,42
+Ballroom 65,17,41
+Bonus Room 76,31,19
+Hallway 48,21,40
+Attic 56,16,40
+Library 88,27,23
+Mud Room 23,31,1
+Laundry Room 20,4,39
+Ballroom 15,31,39
+Basement 70,27,1
+Attic 87,20,45
+Linen Closet 8,47,1
+Bedroom 85,39,10
+Laundry Room 80,25,48
+Secret Room 87,20,29
+Linen Closet 66,26,45
+Dining Room 86,32,15
+Utility Room 37,13,35
+Linen Closet 59,32,1
+Breakfast Area 82,8,46
+Wine Cellar,15,43
+Loft 57,30,46
+Theater 66,4,40
+Bathroom 83,30,13
+Closet 73,4,48
+Walkway 84,21,31
+Nook 29,49,49
+Study 28,50,31
+Entryway 10,3,16
+Walk-in Closet 37,8,16
+Bonus Room 65,26,39
+Bathroom 44,30,12
+Bathroom 4,39,6
+Hallway 43,18,35
+Utility Room 52,21,50
+Study 41,31,46
+Closet 71,14,5
+Nursery 54,42,9
+Basement 59,33,4
+Walkway 46,19,4
+Exercise Room 63,29,50
+Linen Closet 11,4,11
+Office 17,22,23
+Panic Room 60,11,7
+Sun Room 61,5,10
+Nook 1,36,30
+Guest Bedroom 25,33,18
+Keeping Room 71,36,7
+Library 78,13,12
+Attic 61,49,15
+Storage 51,26,27
+Guest Bathroom 54,42,37
+Kitchen 26,21,13
+Loft 21,34,30
+Laundry Room 3,47,30
+Spare Room 63,16,28
+Bonus Room 11,3,32
+Hallway 4,48,25
+Attic 3,34,45
+Guest Bathroom 30,7,6
+Pantry 47,8,45
+Keeping Room 63,37,37
+Bar 31,19,46
+Conservatory 25,8,5
+Sun Room 63,30,48
+Music Room 46,41,30
+Music Room 75,14,13
+Bathroom 82,23,27
+Guest Bathroom 37,26,45
+Bar 24,27,35
+Foyer 63,13,23
+Keeping Room 31,6,17
+Laundry Room 7,6,38
+Garage 75,32,46
+Attic 59,49,10
+Attic 46,35,46
+Bonus Room 23,36,9
+Basement 85,2,50
+Parlor 21,46,16
+Utility Room 67,42,7
+Office 66,49,5
+Panic Room 16,49,36
+Dining Room 5,10,31
+Basement 15,28,37
+Closet 72,36,24
+Bonus Room 14,42,48
+Keeping Room 52,19,39
+Bar 62,7,34
+Attic 63,26,16
+Theater 68,35,26
+Powder Room 69,49,47
+Laundry Room 81,5,32
+Den 48,46,30
+Walkway 29,36,34
+Keeping Room 7,48,14
+Exercise Room 12,43,25
+Theater 52,11,7
+Bonus Room 86,23,9
+Utility Room 33,42,31
+Study 59,25,33
+Kitchen 72,13,35
+Basement 41,31,14
+Ballroom 41,20,15
+Utility Room 85,45,9
+Laundry Room 22,3,29
+Keeping Room 20,6,49
+Entryway 5,29,40
+Parlor 66,31,50
+Hallway 73,21,39
+Parlor 85,11,23
+Mud Room 10,18,35
+Den 26,12,32
+Storage 80,1,8
+Living Room 66,35,27
+Pantry 32,48,27
+Secret Room 58,16,27
+Nursery 46,27,2
+Closet 34,35,3
+Nook 46,22,11
+Attic 62,11,1
+Keeping Room 42,46,3
+Sun Room 4,28,16
+Wine Cellar 82,48,37
+Hallway 76,32,40
+Bar 27,6,44
+Foyer 76,48,42
+Conservatory 12,40,25
+Living Room 14,17,8
+Closet,7,38
+Utility Room 62,27,16
+Ballroom 76,27,42
+Utility Room 8,43,46
+Living Room 37,22,20
+Spare Room 79,26,40
+Entryway 26,7,39
+Walk-in Closet 77,47,19
+Den 80,46,38
+Foyer 13,37,30
+Secret Room 36,6,26
+Panic Room 25,26,2
+Basement 2,35,15
+Closet 49,15,16
+Attic 68,49,1
+Walk-in Closet 25,20,38
+Sun Room 76,7,37
+Secret Room,23,32
+Conservatory 28,34,21
+Laundry Room 39,45,36
+Nook 32,11,27
+Linen Closet 38,8,3
+Living Room 27,50,16
+Study 5,40,23
+Keeping Room 80,47,28
+Guest Bathroom 18,5,37
+Dining Room 87,38,32
+Walk-in Closet 63,14,8
+Pantry 18,37,24
+Dining Room 20,13,10
+Office 41,42,36
+Den 5,23,25
+Utility Room 24,27,35
+Library 60,35,9
+Mud Room 19,15,37
+Library 14,35,37
+Foyer 89,39,27
+Loft 7,12,6
+Keeping Room 41,22,41
+Keeping Room 24,13,4
+Music Room 59,2,43
+Keeping Room 40,43,28
+Living Room 68,3,21
+Ballroom 18,40,41
+Powder Room 43,6,22
+Bar 4,16,43
+Walkway 30,47,34
+Bar 23,4,46
+Wine Cellar 29,30,21
+Pantry 11,49,33
+Living Room 28,35,49
+Bar 44,20,44
+Laundry Room 13,22,30
+Bonus Room,37,37
+Panic Room 74,15,33
+Laundry Room 66,24,11
+Exercise Room 4,33,10
+Walk-in Closet 42,49,42
+Bathroom 32,37,19
+Theater 30,10,3
+Living Room 9,31,1
+Foyer 15,31,39
+Powder Room 48,3,41
+Ballroom 25,38,13
+Attic 21,29,6
+Walkway 1,37,13
+Mud Room 28,49,45
+Basement 20,4,7
+Walk-in Closet 44,10,21
+Walkway 67,14,9
+Bar 70,14,22
+Loft 51,48,4
+Dining Room 83,36,28
+Entryway 86,46,13
+Basement 48,44,25
+Attic 80,23,36
+Game Room 80,15,46
+Entryway 58,5,15
+Parlor 13,25,38
+Pantry 17,9,8
+Panic Room 34,6,6
+Nook 64,35,9
+Garage 49,35,19
+Spare Room 35,41,43
+Exercise Room 84,49,48
+Guest Bathroom 12,21,12
+Living Room 12,11,2
+Kitchen 65,19,3
+Attic 31,44,3
+Storage 72,38,31
+Panic Room 89,20,36
+Utility Room 36,40,20
+Bedroom 53,40,23
+Den 84,40,22
+Den 59,1,33
+Living Room 47,34,32
+Ballroom 80,30,48
+Guest Bedroom 80,34,38
+Secret Room 88,41,40
+Den 44,47,13
+Entryway 14,33,3
+Keeping Room 86,28,3
+Living Room 44,7,8
+Attic 14,5,26
+Bathroom 31,4,33
+Powder Room 11,47,40
+Laundry Room 2,49,44
+Powder Room 15,18,41
+Secret Room 7,16,13
+Entryway 55,50,15
+Pantry 67,6,12
+Entryway 82,45,23
+Guest Bathroom 41,16,9
+Study 53,1,23
+Conservatory 58,38,42
+Sun Room 44,47,25
+Wine Cellar 17,35,46
+Office 15,4,23
+Hallway 7,34,10
+Guest Bedroom 50,11,48
+Music Room 84,29,21
+Laundry Room 38,24,11
+Guest Bathroom 35,15,29
+Den 38,15,33
+Dining Room 62,12,16
+Living Room 35,24,50
+Laundry Room 8,14,36
+Theater 50,32,38
+Living Room 82,6,31
+Keeping Room 66,42,23
+Loft 72,3,18
+Walkway 57,43,50
+Parlor 65,6,23
+Exercise Room 6,49,38
+Theater 26,15,22
+Theater 23,44,36
+Wine Cellar 49,12,48
+Loft 16,22,28
+Walk-in Closet 6,28,35
+Breakfast Area 30,20,21
+Utility Room 81,44,28
+Keeping Room 15,7,12
+Sun Room 25,17,50
+Laundry Room 30,47,25
+Music Room 61,43,46
+Linen Closet 78,23,11
+Conservatory 86,33,23
+Nook 80,17,37
+Conservatory 81,27,16
+Bonus Room 5,41,12
+Basement 3,32,31
+Entryway 28,15,25
+Pantry 68,19,8
+Spare Room 12,30,48
+Ballroom 71,39,38
+Keeping Room 49,37,2
+Mud Room 69,48,23
+Sun Room 71,35,6
+Nursery 3,39,47
+Loft 17,38,13
+Panic Room,19,11
+Den 56,48,43
+Powder Room 41,37,43
+Utility Room 63,19,14
+Library 77,2,40
+Library 27,30,7
+Walkway 41,19,14
+Music Room 19,14,7
+Bar 78,11,33
+Utility Room 83,44,6
+Walkway 64,5,47
+Secret Room 83,41,35
+Loft 24,19,3
+Parlor 11,15,38
+Parlor 25,10,49
+Living Room,5,4
+Living Room 17,35,46
+Utility Room 77,17,35
+Keeping Room 79,49,22
+Guest Bedroom 43,35,42
+Nursery 44,14,4
+Ballroom 20,45,20
+Powder Room 51,42,46
+Garage 34,22,30
+Closet 68,15,8
+Storage 33,44,1
+Utility Room 14,46,48
+Music Room 20,47,13
+Walk-in Closet 55,4,25
+Linen Closet 68,38,30
+Study 19,41,22
+Nursery 76,29,23
+Bar 83,12,26
+Breakfast Area 44,33,44
+Study 64,45,28
+Living Room 81,33,26
+Wine Cellar 26,34,15
+Guest Bathroom 31,20,22
+Storage 86,23,33
+Sun Room 32,33,8
+Breakfast Area 75,40,50
+Nursery 6,48,21
+Powder Room 85,49,42
+Closet 11,8,12
+Music Room 83,3,10
+Wine Cellar 45,49,45
+Theater 13,42,6
+Guest Bathroom 77,1,1
+Panic Room 39,44,40
+Guest Bedroom 41,19,34
+Garage 48,8,50
+Breakfast Area 69,41,25
+Entryway 80,49,35
+Pantry 58,2,17
+Sun Room 52,40,34
+Hallway 24,13,29
+Bedroom 75,10,15
+Library 80,33,42
+Living Room 71,19,9
+Garage 26,26,25
+Garage 73,37,24
+Keeping Room 72,43,38
+Garage 5,43,39
+Kitchen 48,9,2
+Bathroom 8,35,1
+Loft 6,48,30
+Hallway 1,14,33
+Powder Room 17,5,9
+Office 11,49,47
+Loft 49,40,32
+Game Room 71,13,26
+Mud Room 34,15,1
+Secret Room 67,12,49
+Attic 11,37,23
+Game Room 90,10,7
+Conservatory 47,22,1
+Secret Room 20,17,17
+Parlor 52,15,31
+Den 88,22,41
+Exercise Room 16,29,35
+Mud Room 7,46,7
+Storage 3,8,23
+Music Room 16,38,24
+Spare Room 74,8,34
+Bathroom 87,15,47
+Hallway 81,5,49
+Storage 34,7,8
+Kitchen 20,27,43
+Utility Room 28,45,30
+Living Room 76,25,16
+Entryway 23,2,42
+Powder Room 25,38,9
+Kitchen 10,5,25
+Linen Closet 89,8,20
+Den 52,40,24
+Laundry Room 47,32,47
+Bar 16,4,47
+Guest Bathroom 24,40,42
+Panic Room 21,42,7
+Mud Room 14,30,1
+Loft 58,10,41
+Panic Room 7,17,3
+Den 14,21,27
+Linen Closet 26,5,18
+Library 2,18,19
+Nook 51,10,37
+Dining Room 59,23,31
+Wine Cellar 37,20,32
+Nook 74,4,28
+Storage 8,15,23
+Conservatory 83,12,50
+Storage 69,44,14
+Mud Room 55,28,6
+Pantry 2,8,44
+Secret Room 69,13,50
+Den 53,1,9
+Guest Bedroom 83,8,41
+Mud Room,30,31
+Foyer 40,19,30
+Walkway 43,41,14
+Bar 35,9,7
+Parlor 8,13,37
+Parlor 54,5,42
+Panic Room 23,31,6
+Panic Room 82,11,47
+Loft 61,12,46
+Theater 18,11,30
+Study 85,11,10
+Walk-in Closet 8,18,5
+Theater 28,40,22
+Hallway 21,48,12
+Powder Room 77,34,19
+Attic 81,47,22
+Pantry 86,46,8
+Nursery 21,20,3
+Guest Bathroom 5,33,15
+Bathroom 86,23,8
+Walkway 37,23,5
+Loft 30,44,9
+Entryway 39,25,48
+Closet 45,2,47
+Guest Bedroom 81,44,12
+Closet 24,18,18
+Linen Closet 4,22,40
+Guest Bathroom 14,3,30
+Garage 56,34,15
+Nook 33,26,42
+Bar 71,24,15
+Library 23,24,41
+Bonus Room 1,9,11
+Wine Cellar 61,50,13
+Walkway 76,11,45
+Walk-in Closet 52,29,14
+Breakfast Area 80,1,18
+Walk-in Closet 33,35,19
+Bathroom 41,42,40
+Wine Cellar 67,31,20
+Music Room 51,14,50
+Kitchen 15,8,46
+Utility Room 2,6,40
+Living Room 7,27,24
+Entryway 72,50,27
+Living Room 56,7,17
+Garage 70,44,23
+Walk-in Closet 51,46,9
+Office 56,33,21
+Dining Room 28,25,21
+Pantry 65,13,12
+Bonus Room 21,27,50
+Kitchen 17,22,42
+Panic Room 24,6,14
+Hallway 75,48,8
+Walkway 82,25,14
+Den 62,10,25
+Theater 73,45,4
+Bedroom 20,38,35
+Attic 66,50,45
+Attic 9,16,37
+Dining Room 50,40,25
+Game Room 72,19,31
+Linen Closet 31,50,44
+Foyer 18,22,38
+Linen Closet 48,41,11
+Exercise Room 35,10,38
+Storage 78,45,29
+Guest Bedroom 88,15,44
+Panic Room 48,29,37
+Dining Room,36,20
+Hallway 5,2,6
+Utility Room 78,2,17
+Guest Bathroom 82,3,40
+Theater 12,27,23
+Nursery 39,22,48
+Laundry Room 86,22,17
+Theater 7,40,47
+Mud Room 5,41,8
+Spare Room 9,29,2
+Keeping Room 84,45,3
+Study 66,33,30
+Bathroom 73,5,9
+Bonus Room 45,32,41
+Dining Room 37,15,6
+Guest Bedroom 62,10,44
+Theater 47,7,15
+Guest Bedroom 34,8,8
+Keeping Room 39,37,11
+Game Room 43,48,39
+Panic Room 83,33,38
+Living Room 5,47,1
+Conservatory 18,19,16
+Library 72,18,14
+Sun Room 46,14,14
+Breakfast Area 24,30,23
+Walk-in Closet 45,37,40
+Mud Room 63,16,9
+Entryway 2,50,47
+Basement 65,28,21
+Wine Cellar 87,39,49
+Mud Room 45,26,3
+Loft 28,40,20
+Powder Room 12,46,12
+Exercise Room 88,26,42
+Spare Room 76,38,20
+Spare Room 71,45,30
+Linen Closet 36,34,31
+Breakfast Area 26,39,16
+Linen Closet 52,46,39
+Pantry 33,28,14
+Guest Bathroom 87,13,15
+Spare Room 64,49,17
+Den 11,43,14
+Library 85,28,16
+Bar 22,22,46
+Nursery 24,25,39
+Walkway,45,10
+Mud Room 41,36,8
+Guest Bathroom 66,17,1
+Guest Bathroom 80,22,3
+Music Room 4,27,25
+Guest Bedroom 6,47,17
+Bathroom 10,43,33
+Bonus Room 52,45,19
+Secret Room 23,17,34
+Walk-in Closet 20,41,36
+Living Room 2,7,50
+Theater 45,28,4
+Linen Closet 64,16,47
+Entryway 37,32,23
+Ballroom 4,15,12
+Library 3,46,28
+Breakfast Area 74,4,25
+Foyer 70,33,26
+Walkway 79,48,32
+Nook 11,16,47
+Secret Room 41,46,11
+Laundry Room 12,50,18
+Entryway 44,36,25
+Storage 21,23,3
+Walkway 6,3,28
+Walk-in Closet 65,23,49
+Powder Room,25,37
+Laundry Room 24,39,41
+Keeping Room 8,48,24
+Closet 74,10,47
+Basement 17,37,41
+Theater 38,39,1
+Nursery 49,15,15
+Den 82,8,8
+Music Room 78,37,3
+Study 42,20,25
+Utility Room 50,12,48
+Nook 79,11,47
+Office 85,41,4
+Game Room 28,7,17
+Garage 42,49,13
+Bedroom 42,3,9
+Theater 56,12,18
+Storage 32,20,20
+Garage 12,13,32
+Basement 61,32,50
+Utility Room 27,33,12
+Storage 68,5,40
+Foyer 2,22,7
+Dining Room 49,36,9
+Parlor 56,11,33
+Theater 25,38,40
+Living Room 54,2,28
+Utility Room 64,17,2
+Bathroom 11,21,34
+Walk-in Closet 39,35,1
+Storage 71,35,26
+Loft 32,33,16
+Conservatory 46,31,7
+Sun Room 73,34,46
+Sun Room 60,5,50
+Breakfast Area 40,49,45
+Nook 7,27,19
+Conservatory 49,3,48
+Basement 51,25,37
+Walk-in Closet 43,48,37
+Music Room 35,7,31
+Linen Closet 51,6,44
+Living Room 13,30,5
+Linen Closet 61,17,2
+Nursery 87,22,10
+Entryway 53,14,23
+Foyer 38,42,25
+Keeping Room 50,1,37
+Basement 34,31,17
+Kitchen 22,2,8
+Walkway 52,22,9
+Powder Room 5,15,46
+Den 41,5,45
+Kitchen 5,49,39
+Spare Room 16,10,40
+Music Room 7,7,46
+Walkway 59,4,6
+Bedroom 61,27,3
+Conservatory 53,15,49
+Bar,7,48
+Laundry Room 83,17,38
+Ballroom 83,42,47
+Utility Room 44,39,39
+Utility Room 88,12,23
+Library 55,47,48
+Ballroom 16,7,4
+Linen Closet 50,18,50
+Guest Bedroom 74,46,8
+Garage 77,35,3
+Kitchen 3,14,28
+Bedroom 19,18,23
+Parlor 33,30,50
+Library 29,9,14
+Ballroom 58,48,19
+Powder Room 70,18,12
+Dining Room 63,45,42
+Dining Room 36,47,18
+Walkway 34,22,15
+Mud Room 16,44,40
+Library 86,28,32
+Mud Room 77,48,47
+Dining Room 1,41,20
+Den 40,22,44
+Mud Room 83,31,11
+Game Room 83,8,12
+Mud Room 32,19,22
+Den 24,43,48
+Pantry 15,44,42
+Entryway 13,12,14
+Laundry Room 68,42,26
+Powder Room 14,37,8
+Office 20,13,9
+Secret Room 26,49,18
+Entryway 73,37,24
+Walkway 7,29,10
+Game Room 49,19,24
+Bar 20,31,5
+Wine Cellar 20,9,10
+Exercise Room 30,1,42
+Exercise Room 78,38,47
+Wine Cellar 6,32,40
+Breakfast Area 55,13,17
+Walk-in Closet 58,3,16
+Library 69,24,46
+Dining Room 7,21,18
+Hallway 12,39,47
+Powder Room 61,3,42
+Bedroom 35,49,49
+Attic 57,30,19
+Hallway 55,25,20
+Mud Room 2,50,35
+Powder Room 29,30,41
+Foyer 78,9,11
+Bonus Room 19,31,29
+Laundry Room 65,22,7
+Dining Room 76,4,5
+Den,38,13
+Bedroom 25,6,33
+Linen Closet 24,32,9
+Storage 50,39,34
+Living Room 73,17,36
+Attic 48,33,46
+Guest Bedroom 54,4,37
+Parlor 57,8,3
+Kitchen 88,39,30
+Parlor 69,33,36
+Den 69,7,24
+Foyer 83,32,41
+Library 59,37,19
+Study 24,16,30
+Office 63,6,10
+Attic 7,49,28
+Linen Closet 6,27,3
+Entryway 38,26,48
+Hallway 70,36,10
+Nursery 65,16,34
+Office 86,3,48
+Foyer 33,46,37
+Living Room 30,38,24
+Basement 76,37,34
+Den 16,13,18
+Entryway 81,42,31
+Laundry Room 75,47,15
+Walk-in Closet,20,33
+Bedroom 64,11,41
+Guest Bathroom 58,45,15
+Guest Bedroom 40,9,30
+Study 58,14,4
+Parlor 71,23,14
+Spare Room 24,4,14
+Walk-in Closet 71,21,16
+Closet 31,2,27
+Spare Room 21,27,36
+Spare Room 41,33,25
+Office 48,35,35
+Panic Room 6,17,5
+Guest Bedroom 22,3,23
+Powder Room 79,27,36
+Spare Room 85,44,41
+Entryway 70,2,43
+Bedroom 68,27,9
+Walk-in Closet 9,19,45
+Ballroom 13,41,48
+Linen Closet 45,5,25
+Guest Bedroom 24,45,9
+Garage 37,11,44
+Garage 9,32,33
+Attic 74,6,11
+Walk-in Closet 23,24,4
+Bathroom 9,15,34
+Kitchen 56,20,42
+Loft 78,12,40
+Foyer 77,40,20
+Pantry 87,17,10
+Entryway 45,41,2
+Guest Bathroom 63,6,31
+Study 43,29,40
+Guest Bathroom 28,34,49
+Panic Room 43,26,8
+Theater 14,2,38
+Attic 52,44,42
+Parlor 75,28,36
+Bathroom 74,35,40
+Nook 59,45,26
+Nook 72,33,34
+Office 42,48,26
+Nook 25,44,6
+Powder Room 83,25,19
+Ballroom 17,17,5
+Bedroom 14,19,35
+Conservatory 31,12,16
+Garage 21,7,33
+Music Room 70,34,32
+Parlor 44,36,17
+Guest Bedroom 77,2,33
+Sun Room 31,11,43
+Walk-in Closet 83,10,43
+Ballroom 39,21,29
+Wine Cellar 80,39,23
+Pantry 3,4,6
+Pantry 79,37,22
+Theater 79,46,30
+Nursery 1,3,9
+Laundry Room 71,39,41
+Laundry Room 50,11,17
+Ballroom 26,45,47
+Storage 64,40,37
+Laundry Room 61,14,8
+Sun Room 54,29,45
+Linen Closet 19,41,30
+Bar 12,19,8
+Wine Cellar 74,12,11
+Study 57,7,31
+Panic Room 20,30,10
+Music Room 23,32,48
+Panic Room 13,31,25
+Entryway 76,36,44
+Guest Bedroom 14,32,16
+Linen Closet 10,6,33
+Garage 30,15,32
+Parlor 42,34,12
+Hallway 16,38,14
+Breakfast Area 66,36,47
+Utility Room 65,49,15
+Utility Room 11,45,7
+Panic Room 42,48,42
+Exercise Room 26,5,32
+Bar 69,45,8
+Conservatory 7,35,47
+Library 6,8,38
+Music Room 57,14,37
+Office 60,45,48
+Basement 68,23,26
+Hallway 62,31,50
+Wine Cellar 66,47,27
+Entryway 32,18,34
+Foyer 7,18,10
+Parlor 40,12,29
+Closet 70,4,41
+Laundry Room 10,5,45
+Powder Room 67,13,14
+Secret Room 85,42,38
+Wine Cellar 70,44,12
+Powder Room 22,18,11
+Wine Cellar 54,18,29
+Study 34,33,12
+Keeping Room 54,41,19
+Linen Closet 34,16,5
+Office 18,28,11
+Breakfast Area 18,11,23
+Hallway 44,21,41
+Bathroom 58,49,29
+Pantry 27,27,9
+Closet 56,5,14
+Nursery 27,29,47
+Bathroom 91,13,44
+Parlor 15,38,16
+Secret Room 68,48,6
+Theater 51,19,44
+Bathroom 56,31,9
+Living Room 22,17,46
+Sun Room 51,36,22
+Guest Bedroom,3,17
+Mud Room 6,50,40
+Garage 59,10,33
+Garage 23,28,24
+Spare Room 10,13,37
+Walkway 74,49,3
+Closet 39,21,13
+Parlor 29,21,33
+Foyer 23,39,50
+Keeping Room 14,17,9
+Music Room 90,21,50
+Bedroom 39,43,36
+Panic Room 5,17,24
+Bathroom 63,21,42
+Mud Room 33,43,23
+Panic Room 44,19,27
+Guest Bathroom 69,5,6
+Game Room 19,26,37
+Music Room 43,29,33
+Utility Room 48,7,12
+Entryway 62,42,40
+Storage 83,25,21
+Music Room 11,12,25
+Office 26,3,5
+Bathroom 46,33,44
+Bar 51,5,39
+Closet 86,12,19
+Closet 16,12,35
+Study 25,18,16
+Attic 41,24,41
+Guest Bedroom 53,1,5
+Storage 26,50,47
+Bonus Room 27,28,50
+Attic 27,14,16
+Library,33,19
+Garage 17,14,6
+Game Room 37,42,28
+Loft 3,18,38
+Sun Room 34,48,50
+Kitchen 36,38,36
+Exercise Room 41,38,17
+Exercise Room 42,30,9
+Storage 59,7,33
+Game Room 85,16,8
+Bar 54,28,18
+Bar 63,21,45
+Parlor 80,20,3
+Nursery 47,10,15
+Panic Room 55,17,33
+Den 71,41,17
+Den 77,44,8
+Conservatory 5,30,43
+Pantry 43,12,41
+Nook 16,7,21
+Nursery 67,48,14
+Garage 25,9,35
+Basement 75,41,32
+Walk-in Closet 57,30,32
+Basement 43,15,48
+Game Room 61,19,37
+Secret Room 66,2,34
+Game Room 1,23,4
+Dining Room 10,32,46
+Utility Room 61,31,50
+Ballroom 8,9,33
+Secret Room 15,35,19
+Loft 39,43,37
+Walk-in Closet 74,49,21
+Storage 65,31,50
+Office 45,48,12
+Sun Room 68,39,41
+Living Room 80,41,18
+Storage 41,9,18
+Game Room 66,25,24
+Basement 71,45,11
+Pantry 72,50,17
+Powder Room 62,29,29
+Kitchen 9,29,32
+Sun Room 86,31,3
+Kitchen 12,46,43
+Sun Room 57,29,11
+Powder Room 6,5,15
+Study 65,28,33
+Study 7,37,37
+Closet 57,33,31
+Den 64,27,26
+Parlor 48,31,9
+Wine Cellar 5,15,34
+Walk-in Closet 47,22,9
+Bathroom 77,41,32
+Guest Bedroom 79,24,24
+Exercise Room 24,42,38
+Music Room 8,21,9
+Office 2,37,40
+Closet 82,19,28
+Bonus Room 18,45,41
+Bonus Room 42,16,30
+Guest Bathroom 71,36,46
+Guest Bathroom 78,8,36
+Game Room 41,3,6
+Entryway,14,38
+Theater 49,28,24
+Laundry Room 79,47,22
+Den 32,41,34
+Music Room 72,7,10
+Walk-in Closet 7,26,45
+Bedroom 16,34,9
+Walkway 5,48,46
+Pantry 69,23,42
+Conservatory 76,30,25
+Bedroom 17,47,23
+Hallway 49,29,30
+Bonus Room 3,33,17
+Kitchen 46,34,36
+Guest Bedroom 36,18,37
+Nursery 25,1,41
+Guest Bedroom 4,36,47
+Dining Room 6,16,14
+Laundry Room 49,45,37
+Office 13,48,6
+Den 74,40,35
+Garage 13,15,14
+Attic 38,21,24
+Dining Room 80,45,41
+Bar 41,37,34
+Spare Room 29,44,1
+Bedroom 84,2,45
+Game Room 64,37,5
+Kitchen 81,22,50
+Nook 70,21,11
+Loft 10,28,25
+Secret Room 11,27,46
+Bar 45,7,18
+Laundry Room 29,27,44
+Storage 6,38,44
+Guest Bathroom 47,13,13
+Bathroom 25,36,34
+Ballroom 31,32,17
+Basement 66,4,16
+Guest Bathroom 33,30,14
+Bar 40,46,18
+Breakfast Area 59,17,21
+Nursery 41,50,30
+Library 39,34,7
+Bonus Room 60,36,36
+Panic Room 67,36,7
+Study 80,33,9
+Bathroom 84,6,48
+Panic Room 35,9,6
+Office 14,26,46
+Nook 3,39,3
+Nook 21,20,22
+Music Room 30,42,1
+Linen Closet 21,9,8
+Game Room 42,41,3
+Dining Room 9,34,3
+Attic 69,5,5
+Study 78,20,34
+Pantry 5,23,35
+Keeping Room 17,13,8
+Exercise Room 61,43,10
+Pantry 82,23,1
+Bonus Room 75,43,4
+Wine Cellar 76,46,7
+Attic 12,19,21
+Keeping Room 65,25,4
+Walkway 80,14,11
+Game Room 31,18,10
+Ballroom 28,36,15
+Library 33,24,37
+Bar 34,14,43
+Pantry 52,30,3
+Theater 85,39,6
+Hallway 51,42,27
+Parlor 79,5,34
+Guest Bathroom 15,47,32
+Walk-in Closet 86,24,18
+Dining Room 70,9,8
+Utility Room 51,49,12
+Mud Room 58,19,38
+Guest Bathroom 34,39,34
+Utility Room 49,47,6
+Mud Room 40,47,16
+Closet 52,6,11
+Conservatory 41,13,45
+Spare Room 32,6,13
+Living Room 48,46,49
+Ballroom 57,16,11
+Bar 25,37,33
+Basement 36,46,37
+Guest Bedroom 2,46,4
+Closet 32,12,32
+Keeping Room 69,31,24
+Exercise Room 28,2,44
+Storage 19,31,48
+Guest Bedroom 45,42,31
+Powder Room 50,5,29
+Nursery 32,9,35
+Closet 8,31,28
+Ballroom 27,30,45
+Bar 19,47,4
+Foyer 22,6,50
+Powder Room 45,47,26
+Bathroom 3,17,12
+Closet 1,10,4
+Kitchen 87,18,14
+Pantry 22,15,30
+Linen Closet 76,15,13
+Nook 87,11,16
+Theater 46,39,23
+Guest Bathroom 60,36,35
+Keeping Room 18,27,43
+Music Room 34,22,21
+Bar 49,25,27
+Living Room 34,42,27
+Parlor 47,20,32
+Sun Room 43,15,40
+Conservatory 40,5,18
+Guest Bedroom 29,35,6
+Bedroom 83,48,39
+Entryway 59,18,23
+Music Room 27,29,37
+Dining Room 40,21,10
+Basement 27,31,17
+Pantry 12,12,44
+Bathroom 19,48,33
+Living Room 19,33,9
+Parlor 26,27,2
+Loft 55,8,49
+Breakfast Area 85,35,18
+Theater 82,16,43
+Den 72,29,38
+Kitchen 39,27,37
+Keeping Room 33,13,2
+Guest Bedroom 51,27,42
+Den 19,20,24
+Nursery 51,36,1
+Music Room 56,18,36
+Bonus Room 82,29,47
+Basement 25,33,8
+Office 69,21,10
+Bathroom 23,42,42
+Loft 62,43,42
+Keeping Room 38,39,32
+Closet 23,41,23
+Bedroom 18,44,49
+Den 30,36,39
+Bar 72,32,9
+Wine Cellar 72,30,44
+Foyer 82,6,17
+Pantry 28,31,12
+Nursery 50,30,19
+Exercise Room 87,36,8
+Bar 59,32,41
+Ballroom 19,2,38
+Ballroom 10,20,3
+Storage 52,23,30
+Storage 84,20,34
+Sun Room 6,42,23
+Secret Room 18,18,15
+Powder Room 66,31,16
+Conservatory 26,45,36
+Breakfast Area 68,10,25
+Theater 27,12,26
+Storage 76,4,47
+Laundry Room 1,45,28
+Storage 67,44,43
+Basement 8,19,8
+Linen Closet 79,23,16
+Bonus Room 29,35,36
+Exercise Room 54,35,48
+Bonus Room 85,34,26
+Foyer 32,35,36
+Guest Bedroom 23,9,22
+Wine Cellar 78,35,3
+Attic 40,13,3
+Bonus Room 4,13,30
+Nursery 60,20,13
+Wine Cellar 11,48,47
+Linen Closet 1,48,2
+Exercise Room 44,46,40
+Parlor 49,34,42
+Panic Room 58,12,43
+Utility Room 13,29,12
+Walk-in Closet 81,34,24
+Game Room 40,34,2
+Breakfast Area 32,9,4
+Keeping Room 57,2,38
+Powder Room 35,17,32
+Library 58,35,7
+Living Room 74,46,5
+Basement 39,9,17
+Nursery 63,7,6
+Secret Room 5,24,30
+Foyer 66,45,47
+Loft 79,49,16
+Parlor 16,46,21
+Game Room 23,44,8
+Kitchen 64,26,16
+Garage 3,15,47
+Wine Cellar 62,46,27
+Nursery 75,38,25
+Bathroom 67,39,2
+Theater 9,1,24
+Guest Bathroom 9,23,27
+Basement 33,6,8
+Ballroom 86,11,17
+Conservatory 57,28,46
+Walkway 86,28,24
+Utility Room 59,15,32
+Utility Room 46,11,32
+Music Room 13,47,36
+Keeping Room 44,10,4
+Walkway 26,2,29
+Loft 11,14,43
+Office 49,9,16
+Nook 52,5,16
+Library 42,36,33
+Sun Room 56,12,26
+Library 57,3,41
+Library 13,44,34
+Music Room 52,29,30
+Keeping Room 26,13,39
+Living Room 10,1,10
+Ballroom 79,34,19
+Hallway 77,14,21
+Guest Bedroom 31,9,38
+Powder Room 78,19,26
+Kitchen 45,41,36
+Exercise Room 70,20,45
+Breakfast Area 5,29,16
+Walkway 24,50,25
+Bathroom 27,34,29
+Kitchen 19,37,12
+Closet 42,18,36
+Closet 14,17,22
+Dining Room 47,50,31
+Office 75,6,19
+Keeping Room 73,21,7
+Entryway 1,38,44
+Den 36,39,17
+Garage 1,43,28
+Nook 12,14,24
+Office 88,42,35
+Storage 31,47,28
+Utility Room 39,17,16
+Basement 72,15,31
+Wine Cellar 47,13,3
+Walk-in Closet 90,33,50
+Den 4,47,45
+Bar 2,36,13
+Bonus Room 31,40,19
+Sun Room 20,43,41
+Wine Cellar 79,16,40
+Dining Room 32,6,7
+Mud Room 25,6,50
+Wine Cellar 50,38,3
+Game Room 57,47,12
+Secret Room 54,43,20
+Conservatory 14,37,9
+Spare Room 57,38,32
+Attic 75,48,33
+Game Room 21,18,28
+Laundry Room 74,37,46
+Living Room 77,50,48
+Laundry Room 45,30,8
+Nook 48,48,15
+Powder Room 53,14,45
+Pantry 7,2,21
+Kitchen 21,27,40
+Conservatory 13,13,19
+Music Room 2,26,29
+Garage 7,24,35
+Laundry Room 72,10,30
+Linen Closet,19,41
+Library 44,45,46
+Ballroom 53,4,11
+Sun Room 17,27,3
+Exercise Room 32,48,16
+Bonus Room 9,6,36
+Hallway 74,48,48
+Bedroom 73,5,22
+Theater 16,29,19
+Office 29,9,21
+Guest Bathroom 38,19,32
+Dining Room 58,36,50
+Kitchen 61,26,35
+Game Room 68,17,34
+Mud Room 81,3,16
+Walk-in Closet 16,43,9
+Utility Room 32,47,30
+Nursery,36,36
+Nook 27,9,37
+Guest Bedroom 27,28,39
+Guest Bedroom 52,27,33
+Study 29,17,12
+Laundry Room 78,30,15
+Utility Room 17,50,50
+Foyer 34,50,2
+Exercise Room 62,34,50
+Library 61,16,4
+Storage 75,18,35
+Laundry Room 18,4,14
+Music Room 10,33,35
+Study 70,13,7
+Foyer 54,35,19
+Spare Room 48,49,20
+Basement 29,28,26
+Parlor 55,42,29
+Laundry Room 67,47,48
+Conservatory 45,29,2
+Game Room 24,49,26
+Guest Bathroom 52,29,43
+Closet 37,47,14
+Keeping Room 76,21,15
+Walkway 32,33,18
+Bedroom 3,11,6
+Conservatory 19,47,16
+Sun Room 14,34,27
+Closet 48,20,18
+Dining Room 13,47,3
+Walk-in Closet 68,7,33
+Wine Cellar 35,3,35
+Walkway 56,43,2
+Nursery 80,15,8
+Library 83,23,14
+Storage 45,32,18
+Guest Bathroom 86,20,5
+Entryway 63,49,36
+Walkway 38,48,47
+Hallway 50,40,25
+Ballroom 60,26,5
+Attic 13,8,2
+Breakfast Area 62,46,3
+Parlor 18,49,2
+Closet 2,42,37
+Linen Closet 58,11,50
+Kitchen 53,12,26
+Hallway 2,48,3
+Utility Room 82,29,20
+Walkway 62,37,7
+Linen Closet 88,49,45
+Foyer 65,4,18
+Mud Room 29,50,3
+Conservatory 66,36,21
+Office 47,18,38
+Secret Room 78,29,48
+Basement 26,44,19
+Kitchen 34,18,7
+Foyer 79,10,40
+Bathroom 80,48,20
+Nook 63,49,21
+Sun Room 67,31,36
+Game Room 81,46,8
+Study 13,22,15
+Exercise Room 23,28,34
+Dining Room 46,9,5
+Exercise Room 19,32,12
+Theater 74,3,22
+Library 79,24,41
+Linen Closet 27,50,19
+Secret Room 40,20,19
+Basement 32,43,45
+Guest Bathroom 7,45,38
+Living Room 21,15,37
+Bonus Room 37,33,5
+Hallway 40,20,31
+Bathroom 68,37,26
+Den 45,22,43
+Utility Room 31,21,7
+Mud Room 35,14,31
+Linen Closet 23,36,42
+Mud Room 21,41,31
+Hallway 65,7,7
+Attic 86,50,41
+Nursery 59,7,8
+Conservatory 60,8,42
+Music Room 89,38,47
+Sun Room 53,22,13
+Music Room 42,5,9
+Spare Room 43,37,16
+Hallway 35,46,46
+Den 15,8,27
+Bathroom 43,20,44
+Breakfast Area 57,39,17
+Basement 53,21,32
+Guest Bathroom 1,49,34
+Secret Room 37,15,14
+Library 16,13,31
+Sun Room 72,18,23
+Pantry 26,10,30
+Walkway 81,31,17
+Kitchen 42,23,30
+Attic 84,2,5
+Entryway 18,33,9
+Walk-in Closet 46,27,28
+Nursery 10,1,31
+Ballroom 37,27,11
+Walkway 36,45,15
+Bathroom 47,32,30
+Nursery 37,17,46
+Panic Room 51,19,25
+Garage 55,3,18
+Attic 43,44,13
+Den 29,34,42
+Bonus Room 56,3,7
+Entryway 12,11,38
+Sun Room 41,7,27
+Kitchen 69,50,20
+Spare Room 18,7,29
+Wine Cellar 15,42,43
+Powder Room 54,48,26
+Game Room 59,19,22
+Dining Room 55,2,7
+Basement 79,20,30
+Foyer 5,43,39
+Ballroom 1,1,1
+Closet 77,15,13
+Den 87,46,11
+Basement 57,34,1
+Garage 27,24,23
+Entryway 43,24,41
+Breakfast Area,9,44
+Ballroom 56,2,41
+Conservatory 62,49,50
+Wine Cellar 10,39,37
+Sun Room 24,49,31
+Study 6,1,2
+Walkway 50,16,4
+Bonus Room 63,48,33
+Wine Cellar 60,34,45
+Exercise Room 2,39,7
+Guest Bedroom 60,31,27
+Walk-in Closet 5,14,19
+Hallway 84,1,50
+Hallway 83,4,2
+Powder Room 31,11,11
+Linen Closet 25,47,32
+Foyer 44,25,31
+Nook 24,38,7
+Bonus Room 16,20,8
+Living Room 46,4,14
+Bar 68,39,22
+Study 73,7,40
+Guest Bedroom 17,49,23
+Bar 29,34,29
+Storage 58,21,19
+Guest Bedroom 67,26,4
+Bonus Room 78,32,2
+Hallway 42,36,3
+Loft 25,16,33
+Bonus Room 89,3,40
+Hallway 82,34,34
+Sun Room 40,21,17
+Bedroom 5,40,27
+Loft 66,27,7
+Game Room 62,40,47
+Mud Room 66,2,26
+Bonus Room 62,2,45
+Panic Room 40,25,25
+Spare Room 58,23,7
+Ballroom 34,23,43
+Guest Bedroom 13,3,39
+Bedroom 54,6,11
+Nursery 12,25,33
+Den 17,33,11
+Walkway 16,24,17
+Mud Room 4,48,26
+Kitchen 79,49,12
+Sun Room 23,36,47
+Hallway 31,7,34
+Storage 49,41,11
+Walk-in Closet 10,17,32
+Secret Room 8,33,33
+Nook 71,50,16
+Nursery 26,3,25
+Nursery 36,27,41
+Study 11,30,43
+Powder Room 82,40,10
+Exercise Room,11,45
+Loft 42,44,29
+Guest Bathroom 20,24,25
+Exercise Room 85,6,47
+Library 71,30,2
+Bonus Room 20,35,39
+Bar 42,39,43
+Mud Room 30,49,14
+Theater 59,23,42
+Mud Room 31,19,43
+Parlor 30,12,24
+Powder Room 80,45,40
+Bar 77,22,5
+Foyer 8,13,37
+Ballroom 68,14,34
+Laundry Room 34,26,22
+Mud Room 18,23,15
+Theater 35,41,31
+Theater 58,10,2
+Walk-in Closet 15,7,22
+Nursery 9,37,5
+Utility Room 12,40,26
+Keeping Room 55,19,23
+Library 8,2,37
+Conservatory 68,12,50
+Storage 74,10,30
+Bonus Room 53,8,5
+Conservatory 77,23,31
+Storage 57,21,50
+Library 67,8,3
+Laundry Room 25,43,12
+Parlor 76,13,47
+Bedroom 29,7,28
+Panic Room 47,19,36
+Exercise Room 53,46,40
+Laundry Room 41,5,21
+Dining Room 17,40,15
+Theater,21,1
+Breakfast Area 25,34,20
+Entryway 4,4,27
+Entryway 66,3,3
+Linen Closet 73,37,5
+Attic 64,21,37
+Guest Bathroom 81,50,33
+Den 47,7,8
+Conservatory 75,24,18
+Bedroom 62,44,17
+Music Room 38,34,7
+Kitchen 38,44,32
+Hallway 11,7,45
+Breakfast Area 51,2,3
+Living Room 62,45,33
+Parlor 67,21,32
+Library 73,6,4
+Parlor 74,34,46
+Hallway 9,45,16
+Garage 58,39,11
+Guest Bedroom 18,46,48
+Sun Room 59,38,23
+Kitchen 40,37,12
+Hallway 72,19,50
+Nursery 72,5,5
+Garage 76,41,31
+Garage 50,11,11
+Exercise Room 14,27,23
+Spare Room 59,49,24
+Laundry Room 64,46,15
+Hallway 41,30,2
+Mud Room 53,25,21
+Keeping Room 43,18,46
+Powder Room 49,42,21
+Loft 5,31,8
+Nook 60,50,19
+Library 10,40,19
+Conservatory 70,47,41
+Linen Closet 43,5,29
+Closet 17,48,48
+Office 23,40,42
+Foyer 39,30,19
+Parlor 81,45,36
+Storage 15,21,36
+Parlor,23,45
+Pantry 21,20,6
+Breakfast Area 60,38,14
+Guest Bathroom 68,14,49
+Keeping Room 68,48,45
+Conservatory 85,25,40
+Garage 87,12,45
+Theater 88,2,36
+Study 81,21,26
+Attic 26,40,22
+Bedroom 43,30,10
+Guest Bedroom 75,9,33
+Laundry Room 87,40,27
+Parlor 28,42,23
+Music Room 74,24,44
+Keeping Room 75,25,13
+Closet 15,28,25
+Pantry 49,26,41
+Utility Room,25,50
+Guest Bedroom 78,46,19
+Walk-in Closet 31,10,24
+Parlor 24,1,34
+Walkway 33,41,22
+Entryway 56,4,24
+Exercise Room 83,29,22
+Foyer 19,34,44
+Powder Room 20,39,32
+Guest Bedroom 66,17,19
+Spare Room 22,48,41
+Loft 87,46,46
+Loft 31,46,6
+Walkway 23,40,48
+Closet 66,46,1
+Kitchen 24,28,4
+Nook 37,21,33
+Attic 25,5,31
+Garage 10,5,38
+Study 35,1,16
+Bedroom 80,12,4
+Spare Room 83,29,15
+Panic Room 46,9,47
+Conservatory 73,8,9
+Guest Bathroom 48,40,45
+Closet 10,23,30
+Study 68,2,15
+Secret Room 4,13,20
+Hallway 63,3,1
+Basement 40,19,12
+Attic 30,23,29
+Loft 22,30,15
+Ballroom 7,22,16
+Theater 77,14,49
+Theater 21,20,19
+Guest Bedroom 10,21,1
+Storage 60,11,7
+Walk-in Closet 72,4,34
+Dining Room 82,18,21
+Breakfast Area 6,4,19
+Attic 1,28,26
+Powder Room 30,8,49
+Conservatory 48,15,19
+Spare Room 53,12,26
+Office 46,30,25
+Nook 84,19,27
+Exercise Room 58,45,37
+Bar 64,2,29
+Wine Cellar 65,30,31
+Wine Cellar 75,46,12
+Closet 58,2,11
+Attic 19,16,15
+Guest Bathroom 59,48,26
+Bedroom 69,28,49
+Foyer 46,1,18
+Bathroom 57,28,43
+Music Room 73,48,19
+Office 74,47,20
+Entryway 34,15,33
+Spare Room 36,27,46
+Pantry 45,39,25
+Utility Room 42,40,24
+Den 1,36,36
+Keeping Room 78,8,38
+Spare Room 37,18,22
+Walk-in Closet 36,4,10
+Bonus Room 10,39,36
+Wine Cellar 52,35,31
+Hallway 19,2,41
+Loft 50,10,30
+Powder Room 7,31,27
+Spare Room 46,6,19
+Powder Room 39,46,11
+Secret Room 81,8,13
+Loft 53,36,39
+Foyer 43,26,38
+Bathroom 14,26,11
+Office 68,10,14
+Library 19,35,28
+Walkway 28,30,35
+Loft 48,47,17
+Game Room 55,36,25
+Music Room 58,23,28
+Garage 83,12,50
+Powder Room 87,13,17
+Study 51,12,21
+Library 37,19,47
+Walkway 22,9,30
+Guest Bedroom 68,48,20
+Bedroom 50,28,37
+Laundry Room 28,43,38
+Walkway 14,47,19
+Powder Room 32,28,19
+Bonus Room 2,12,5
+Linen Closet 3,27,21
+Closet 61,36,11
+Bathroom 45,39,17
+Linen Closet 39,25,17
+Garage 62,7,37
+Spare Room 31,20,2
+Laundry Room 5,9,7
+Storage 24,40,49
+Sun Room 74,38,45
+Music Room 87,46,47
+Pantry 73,6,37
+Hallway 8,48,36
+Powder Room 27,39,31
+Laundry Room 82,22,12
+Living Room 72,40,16
+Linen Closet 80,26,2
+Mud Room 87,12,48
+Library 15,17,37
+Garage 74,4,12
+Laundry Room 33,8,17
+Panic Room 61,1,33
+Theater 31,34,29
+Basement 52,19,27
+Dining Room 30,42,33
+Panic Room 69,18,1
+Walk-in Closet 79,23,7
+Dining Room 39,49,49
+Nook 36,25,7
+Foyer 41,14,36
+Theater 24,13,4
+Guest Bathroom 13,3,15
+Foyer 60,9,27
+Kitchen 27,24,4
+Den 20,4,10
+Den 65,12,5
+Panic Room 8,42,20
+Linen Closet 71,38,36
+Kitchen 1,24,16
+Linen Closet 42,18,16
+Closet 21,24,31
+Guest Bedroom 87,20,23
+Basement,16,5
+Walk-in Closet 41,30,20
+Entryway 30,3,34
+Dining Room 34,10,35
+Hallway 38,47,2
+Pantry 14,26,34
+Guest Bedroom 16,32,22
+Bar 50,4,26
+Game Room 18,46,32
+Dining Room 60,46,10
+Ballroom 46,13,39
+Nook 68,28,23
+Laundry Room 55,7,47
+Attic 73,17,3
+Nook 18,7,2
+Study 75,47,37
+Spare Room 13,47,33
+Game Room 11,25,34
+Keeping Room 5,23,25
+Guest Bathroom 25,47,16
+Nursery 52,22,12
+Guest Bedroom 64,33,37
+Spare Room 7,19,27
+Foyer 36,12,42
+Wine Cellar 23,27,12
+Sun Room,2,1
+Entryway 20,11,17
+Spare Room 17,9,4
+Nook 47,25,17
+Guest Bedroom 12,26,34
+Secret Room 19,8,8
+Storage 56,8,9
+Walkway 68,14,34
+Mud Room 9,48,39
+Theater 81,1,41
+Walk-in Closet 19,4,39
+Storage 12,27,16
+Mud Room 27,41,19
+Sun Room 58,35,44
+Bedroom 72,28,17
+Parlor 86,5,33
+Pantry 54,13,39
+Parlor 10,2,10
+Keeping Room 62,12,17
+Exercise Room 7,14,39
+Bathroom 33,41,38
+Ballroom 2,41,24
+Garage 2,48,38
+Library 5,22,35
+Bedroom 70,41,42
+Dining Room 77,15,10
+Library 48,24,22
+Foyer 74,18,23
+Keeping Room 28,24,24
+Study 21,19,34
+Closet 63,11,31
+Wine Cellar 53,7,49
+Secret Room 73,20,9
+Mud Room 88,15,15
+Game Room 17,5,43
+Conservatory 89,49,37
+Den 10,49,21
+Nursery 22,45,49
+Breakfast Area 73,35,46
+Parlor 22,22,10
+Nursery 19,37,41
+Den 76,50,33
+Study 47,15,32
+Mud Room 59,29,17
+Den 8,27,33
+Utility Room 38,3,4
+Closet 88,37,18
+Entryway 9,22,44
+Den 68,9,19
+Storage 53,6,32
+Powder Room 4,9,13
+Wine Cellar 89,37,23
+Secret Room 59,43,23
+Wine Cellar 59,34,11
+Laundry Room 21,42,10
+Loft 33,28,16
+Nook 17,42,48
+Bar 55,16,46
+Walkway 55,20,50
+Pantry 78,25,12
+Garage 79,28,34
+Powder Room 28,19,26
+Laundry Room 51,6,13
+Bonus Room 15,32,22
+Theater 84,32,48
+Bedroom 26,17,29
+Game Room 15,15,50
+Dining Room 3,34,14
+Guest Bathroom 46,5,5
+Living Room 53,30,8
+Attic 45,21,15
+Keeping Room 29,2,32
+Music Room 86,47,35
+Loft 82,42,9
+Attic 44,12,41
+Nursery 77,45,49
+Bonus Room 77,35,23
+Exercise Room 48,22,38
+Pantry 20,4,34
+Basement 83,11,19
+Spare Room 5,7,37
+Spare Room 11,37,24
+Keeping Room 85,25,31
+Spare Room 27,20,35
+Basement 82,17,46
+Garage 53,42,5
+Ballroom 3,35,40
+Utility Room 3,5,13
+Music Room 53,7,36
+Breakfast Area 31,42,46
+Bathroom 69,30,32
+Wine Cellar 18,11,39
+Linen Closet 7,35,40
+Music Room 69,31,9
+Bonus Room 47,31,50
+Loft 38,14,1
+Nursery 83,45,28
+Bonus Room 71,42,13
+Conservatory 59,45,4
+Entryway 40,8,44
+Basement 24,21,43
+Dining Room 51,50,32
+Loft 41,43,41
+Secret Room 27,14,37
+Mud Room 43,36,32
+Parlor 58,28,9
+Keeping Room 70,32,29
+Bathroom 81,17,31
+Nursery 13,10,3
+Sun Room 1,5,45
+Study 22,50,25
+Exercise Room 38,26,36
+Panic Room 9,45,42
+Bonus Room 46,18,14
+Den 22,10,31
+Den 35,23,35
+Walkway 48,13,36
+Office 50,42,10
+Wine Cellar 51,32,7
+Basement 56,12,43
+Walkway 77,49,20
+Mud Room 12,8,40
+Guest Bedroom 49,44,46
+Bar 1,38,18
+Utility Room 73,7,49
+Game Room 51,1,39
+Panic Room 1,34,34
+Guest Bedroom 15,31,36
+Theater 61,1,4
+Spare Room 40,29,21
+Walkway 72,46,16
+Laundry Room 48,44,6
+Bathroom 70,32,5
+Nursery 34,46,23
+Guest Bathroom 84,20,1
+Bedroom 23,38,19
+Powder Room 58,3,31
+Conservatory 22,2,22
+Mud Room 56,5,49
+Office 21,8,15
+Secret Room 64,48,16
+Wine Cellar 69,49,38
+Living Room 25,3,43
+Bonus Room 57,6,18
+Pantry 71,15,3
+Attic 58,32,31
+Theater 53,7,39
+Library 26,29,21
+Bar 81,14,31
+Linen Closet 87,38,30
+Basement 44,20,16
+Game Room 65,43,16
+Conservatory 71,22,40
+Entryway 6,25,29
+Bathroom 29,29,42
+Parlor 3,31,46
+Exercise Room 73,4,28
+Laundry Room 73,35,32
+Entryway 24,42,25
+Kitchen 2,47,21
+Bathroom 28,35,24
+Library 54,6,22
+Closet 35,45,45
+Walkway 69,6,7
+Bedroom 71,32,15
+Guest Bathroom 42,28,17
+Breakfast Area 28,49,40
+Study 20,8,49
+Office 62,48,22
+Powder Room 64,33,48
+Powder Room 73,39,45
+Basement 55,3,35
+Dining Room 33,1,17
+Utility Room 15,37,31
+Panic Room 27,43,47
+Panic Room 31,18,11
+Parlor 14,19,36
+Laundry Room 23,37,22
+Utility Room 55,23,27
+Walk-in Closet 64,34,44
+Office 58,30,32
+Wine Cellar 28,22,38
+Hallway 66,26,41
+Bathroom 78,33,32
+Music Room 24,4,23
+Music Room 12,6,29
+Library 65,39,45
+Keeping Room 37,5,1
+Dining Room 48,28,45
+Entryway 67,33,1
+Spare Room 78,40,5
+Powder Room 44,44,45
+Office 54,15,43
+Nook 45,46,25
+Panic Room 66,47,19
+Foyer 57,15,2
+Laundry Room 37,23,1
+Garage 4,25,46
+Bonus Room 66,17,30
+Office 70,46,17
+Pantry 13,9,4
+Mud Room 82,15,36
+Wine Cellar 13,40,12
+Bedroom 28,47,22
+Closet 13,20,42
+Study 49,25,44
+Laundry Room 85,47,46
+Theater 1,20,3
+Keeping Room 23,1,48
+Bathroom 64,18,28
+Exercise Room 71,42,27
+Bathroom 24,14,33
+Loft 29,39,11
+Exercise Room 69,25,1
+Powder Room 37,22,2
+Pantry 70,39,28
+Closet 84,48,16
+Closet 51,36,42
+Hallway 64,37,36
+Keeping Room 48,10,23
+Guest Bedroom 8,5,37
+Living Room 79,1,36
+Closet 12,35,26
+Storage 2,15,14
+Closet 75,7,29
+Game Room 6,15,48
+Kitchen 80,1,25
+Study 14,11,40
+Dining Room 12,21,41
+Guest Bathroom 3,9,32
+Panic Room 10,31,2
+Keeping Room 27,35,35
+Breakfast Area 84,10,15
+Hallway 56,10,6
+Spare Room 81,21,8
+Linen Closet 86,1,10
+Utility Room 72,18,10
+Nook 30,32,14
+Guest Bedroom 61,45,22
+Closet 47,29,8
+Entryway 61,30,34
+Garage 66,42,34
+Basement 81,35,26
+Walk-in Closet 48,24,25
+Bathroom 66,25,38
+Bathroom 71,11,14
+Garage 29,48,26
+Linen Closet 70,8,6
+Library 32,12,26
+Panic Room 79,3,21
+Powder Room 1,47,8
+Secret Room 9,23,42
+Basement 62,50,14
+Music Room 26,49,2
+Guest Bedroom 3,13,49
+Ballroom 70,5,4
+Guest Bedroom 5,40,47
+Garage 67,8,28
+Powder Room 74,42,15
+Den 43,38,10
+Loft 56,45,50
+Kitchen 62,35,16
+Garage 43,45,34
+Nursery 42,11,4
+Exercise Room 86,17,32
+Game Room 7,37,35
+Wine Cellar 86,12,9
+Walkway 25,47,5
+Music Room 37,50,18
+Utility Room 7,3,42
+Bonus Room 72,36,38
+Sun Room 29,2,32
+Guest Bathroom 55,24,9
+Nursery 45,37,11
+Powder Room 76,28,28
+Nursery 64,41,41
+Kitchen 31,34,22
+Spare Room 54,38,3
+Breakfast Area 87,1,23
+Pantry 59,49,3
+Music Room 36,19,23
+Garage 72,25,30
+Office 34,25,9
+Mud Room 76,25,20
+Foyer 12,42,26
+Foyer 84,30,48
+Office 84,44,9
+Basement 22,36,8
+Dining Room 26,28,15
+Breakfast Area 38,3,9
+Linen Closet 74,6,10
+Laundry Room 42,42,26
+Bathroom 53,24,35
+Bedroom 33,1,7
+Nook 43,7,37
+Office 5,40,22
+Utility Room 30,25,15
+Walk-in Closet 53,17,14
+Garage 44,4,9
+Walk-in Closet 87,43,7
+Game Room 87,38,14
+Den 86,30,5
+Laundry Room 16,35,31
+Closet 5,23,37
+Exercise Room 1,19,48
+Music Room 3,33,22
+Dining Room 53,12,31
+Nursery 74,19,49
+Linen Closet 46,25,18
+Parlor 89,40,27
+Bedroom 59,32,50
+Parlor 43,11,32
+Conservatory 44,22,5
+Basement 46,47,11
+Kitchen 50,34,36
+Den 34,6,39
+Keeping Room 35,1,9
+Guest Bathroom 16,14,6
+Pantry 39,36,43
+Ballroom 43,4,50
+Den 3,16,47
+Guest Bedroom 30,44,4
+Office 32,15,10
+Bedroom 48,37,43
+Library 52,41,42
+Walkway 12,12,34
+Loft 40,25,22
+Pantry 8,47,40
+Entryway 87,6,23
+Conservatory 64,10,3
+Den 55,29,29
+Exercise Room 68,6,2
+Exercise Room 47,3,8
+Pantry 57,1,23
+Bedroom 12,33,46
+Closet 76,44,23
+Keeping Room 3,43,17
+Exercise Room 43,15,12
+Mud Room 51,35,1
+Spare Room 67,49,40
+Pantry 48,38,20
+Kitchen 30,6,5
+Theater 11,33,19
+Ballroom 36,17,32
+Bar 11,33,7
+Music Room 25,46,34
+Linen Closet 5,43,37
+Breakfast Area 39,46,35
+Nook 34,2,35
+Secret Room 39,4,5
+Breakfast Area 10,3,4
+Bar 10,38,9
+Study 83,5,3
+Entryway 8,34,21
+Guest Bedroom 21,11,31
+Loft 14,23,16
+Mud Room 38,44,10
+Entryway 36,29,10
+Dining Room 66,7,43
+Living Room 52,6,6
+Nursery 82,37,25
+Basement 87,46,39
+Storage 22,27,31
+Library 18,7,3
+Theater 55,45,4
+Garage 33,48,8
+Exercise Room 75,44,42
+Bonus Room 8,14,2
+Den 70,24,16
+Bedroom 87,30,27
+Laundry Room 63,29,19
+Exercise Room 3,1,11
+Music Room 55,50,15
+Bathroom 59,3,4
+Ballroom 22,16,13
+Closet 40,37,18
+Spare Room 49,27,35
+Ballroom 30,27,23
+Exercise Room 40,6,2
+Nook 2,49,49
+Dining Room 21,38,29
+Laundry Room 84,22,9
+Theater 2,13,14
+Ballroom 38,26,20
+Utility Room 22,45,29
+Utility Room 16,18,34
+Music Room 85,36,33
+Nook 5,42,49
+Walk-in Closet 50,1,31
+Linen Closet 20,17,12
+Storage 54,50,23
+Music Room 17,35,21
+Storage 85,47,45
+Study 30,29,41
+Den 9,46,24
+Entryway 22,21,28
+Guest Bedroom 1,23,24
+Breakfast Area 27,6,7
+Powder Room 34,17,27
+Powder Room 52,42,32
+Game Room 9,24,16
+Walk-in Closet 14,23,12
+Wine Cellar 25,16,23
+Utility Room 35,8,31
+Sun Room 12,23,41
+Study,43,7
+Nook 77,8,31
+Storage 35,34,32
+Keeping Room 12,36,9
+Music Room 67,20,15
+Spare Room 39,50,48
+Laundry Room 52,50,21
+Parlor 73,43,32
+Parlor 36,46,23
+Breakfast Area 36,3,43
+Parlor 17,2,35
+Nook 78,31,48
+Bedroom 6,49,4
+Basement 4,31,14
+Panic Room 87,42,44
+Bar 39,17,17
+Exercise Room 11,46,33
+Music Room 50,14,50
+Nook 14,39,30
+Guest Bathroom 72,13,26
+Bathroom 61,19,23
+Linen Closet 2,49,18
+Storage 14,28,22
+Secret Room 77,42,43
+Sun Room 3,17,24
+Spare Room 88,42,32
+Conservatory 65,17,21
+Storage 39,17,36
+Sun Room 45,14,13
+Theater 32,36,21
+Powder Room 75,23,23
+Entryway 48,29,26
+Exercise Room 55,33,9
+Basement 47,19,16
+Foyer 48,11,36
+Parlor 87,5,42
+Walkway 39,24,22
+Breakfast Area 52,18,47
+Kitchen 18,3,43
+Bedroom 4,46,49
+Garage 71,44,33
+Basement 50,22,33
+Mud Room 70,45,30
+Linen Closet 15,31,45
+Ballroom 61,6,19
+Powder Room 18,39,43
+Guest Bedroom 26,44,49
+Den 58,16,18
+Theater 42,17,6
+Nursery 2,32,37
+Mud Room 50,39,42
+Nursery 55,10,2
+Guest Bathroom 22,15,19
+Garage 63,4,49
+Storage 16,28,26
+Walkway 8,24,11
+Loft 80,33,28
+Conservatory 16,28,37
+Foyer 73,10,29
+Bathroom 20,35,48
+Guest Bedroom 42,1,26
+Sun Room 11,1,10
+Study 37,38,50
+Secret Room 34,28,7
+Wine Cellar 9,6,27
+Walkway 54,37,2
+Bar 85,39,38
+Panic Room 11,17,18
+Guest Bedroom 47,13,35
+Attic 71,29,18
+Dining Room 54,8,33
+Sun Room 77,35,6
+Loft 88,6,30
+Den 66,31,41
+Bonus Room 33,46,45
+Nursery 68,19,2
+Music Room 14,2,10
+Conservatory 11,19,5
+Nursery 86,21,48
+Breakfast Area 3,44,13
+Nursery 18,13,15
+Library 7,29,39
+Hallway 86,18,40
+Secret Room 33,48,38
+Linen Closet 85,16,24
+Bar 67,47,32
+Game Room 79,31,24
+Breakfast Area 78,14,44
+Ballroom 40,14,22
+Conservatory 79,39,47
+Panic Room 30,4,14
+Hallway,31,37
+Attic 39,7,44
+Study 4,21,18
+Wine Cellar 14,48,12
+Basement 58,8,34
+Entryway 41,44,33
+Sun Room 35,49,22
+Den 51,37,27
+Spare Room 42,34,41
+Dining Room 25,38,16
+Laundry Room 14,26,46
+Bonus Room 25,38,33
+Bonus Room 12,43,37
+Bar 74,6,16
+Walkway 17,18,45
+Bar 53,27,46
+Office 3,40,22
+Keeping Room 81,22,47
+Theater 36,35,40
+Music Room,39,41
+Laundry Room 59,24,49
+Powder Room 24,21,19
+Sun Room 47,41,50
+Closet 62,27,3
+Music Room 15,14,37
+Bedroom 55,21,32
+Basement 60,37,49
+Keeping Room 61,44,29
+Panic Room 76,43,10
+Linen Closet 22,24,30
+Basement 63,42,2
+Mud Room 22,1,47
+Attic 28,32,33
+Ballroom 55,1,31
+Game Room 39,16,49
+Walkway 11,34,20
+Exercise Room 34,19,24
+Keeping Room 4,6,26
+Game Room 10,29,22
+Bar 73,45,20
+Ballroom 74,36,37
+Closet 6,8,47
+Den 25,28,44
+Panic Room 28,39,40
+Dining Room 11,46,31
+Office 6,17,7
+Living Room 8,15,5
+Breakfast Area 72,33,35
+Entryway 3,44,39
+Hallway 25,13,21
+Garage 39,22,13
+Office 9,14,14
+Nursery 40,8,17
+Bathroom 48,29,12
+Dining Room 67,13,12
+Theater 71,30,37
+Ballroom 11,41,42
+Parlor 82,8,27
+Conservatory 30,12,32
+Sun Room 55,17,25
+Guest Bedroom 19,43,27
+Laundry Room 27,20,9
+Loft 27,26,49
+Nursery 58,23,18
+Dining Room 2,2,5
+Exercise Room 82,25,35
+Den 79,28,24
+Office 25,40,26
+Office 10,45,35
+Foyer 1,13,32
+Spare Room 55,41,42
+Secret Room 75,35,34
+Sun Room 15,5,43
+Nursery 33,3,20
+Laundry Room 31,24,29
+Bar 14,9,43
+Guest Bedroom 55,24,49
+Ballroom 45,19,19
+Mud Room 3,7,28
+Kitchen 76,9,19
+Panic Room 70,3,34
+Parlor 64,9,49
+Guest Bathroom 19,10,19
+Wine Cellar 38,49,10
+Walk-in Closet 24,15,40
+Closet 43,27,3
+Panic Room 15,50,45
+Pantry 9,33,23
+Basement 5,16,45
+Ballroom,15,46
+Bonus Room 49,18,7
+Dining Room 24,31,15
+Keeping Room 34,10,27
+Utility Room 26,16,3
+Exercise Room 21,24,26
+Loft 60,27,35
+Laundry Room 9,49,4
+Panic Room 80,23,15
+Secret Room 22,35,22
+Walk-in Closet 28,38,19
+Storage 73,14,29
+Spare Room 4,7,25
+Kitchen 68,12,6
+Breakfast Area 16,16,36
+Bathroom 50,16,42
+Music Room 80,38,7
+Theater 22,39,12
+Attic 65,29,42
+Utility Room 41,29,11
+Basement 12,35,22
+Bar 75,27,26
+Breakfast Area 76,16,38
+Living Room 39,49,34
+Panic Room 45,12,27
+Walk-in Closet 34,36,29
+Hallway 68,35,43
+Attic 23,20,29
+Study 27,50,29
+Closet 85,32,12
+Ballroom 77,26,37
+Loft 36,25,24
+Nursery 62,45,22
+Loft 67,38,7
+Study 32,14,45
+Nook 41,36,7
+Panic Room 52,12,19
+Bedroom 51,16,8
+Pantry 53,44,42
+Basement 28,36,29
+Parlor 62,46,36
+Loft 45,10,7
+Hallway 36,13,15
+Closet 26,38,32
+Sun Room 27,19,41
+Sun Room 49,39,20
+Ballroom 35,18,32
+Guest Bedroom 84,20,12
+Sun Room 48,1,13
+Laundry Room 56,8,23
+Living Room 55,1,33
+Entryway 42,43,4
+Hallway 60,34,42
+Loft 15,32,30
+Bathroom 18,15,27
+Entryway 88,46,43
+Panic Room 85,2,5
+Parlor 50,1,35
+Bonus Room 40,13,43
+Pantry 74,28,32
+Kitchen 28,45,46
+Bathroom 38,13,16
+Garage 40,38,47
+Secret Room 21,2,47
+Guest Bedroom 37,44,27
+Sun Room 42,31,29
+Parlor 70,47,8
+Spare Room 70,8,1
+Game Room 47,22,22
+Walk-in Closet 40,18,42
+Exercise Room 66,28,36
+Guest Bedroom 59,39,38
+Bar 82,45,30
+Entryway 54,8,20
+Laundry Room 54,38,25
+Attic 88,1,49
+Kitchen 84,40,22
+Music Room 39,45,30
+Study 1,38,29
+Walk-in Closet 22,27,50
+Nursery 79,33,42
+Loft 12,47,30
+Linen Closet 47,20,7
+Nook 49,25,11
+Study 69,34,23
+Bonus Room 36,32,25
+Study 55,17,36
+Spare Room 87,50,46
+Secret Room 31,5,19
+Garage 45,27,8
+Study 12,8,22
+Panic Room 73,24,27
+Office 57,49,27
+Panic Room 38,21,3
+Powder Room 59,42,45
+Office 16,22,28
+Pantry 35,9,3
+Secret Room 14,39,13
+Mud Room 68,27,39
+Laundry Room 69,3,20
+Storage 44,41,43
+Guest Bedroom 44,27,45
+Keeping Room 51,23,18
+Keeping Room 60,13,31
+Spare Room 30,6,8
+Breakfast Area 35,33,21
+Guest Bathroom 8,9,7
+Spare Room 75,49,14
+Parlor 34,20,34
+Keeping Room 32,18,50
+Utility Room 4,37,22
+Utility Room 18,4,45
+Bar 18,5,44
+Bonus Room 54,31,19
+Library 45,37,30
+Nook 57,30,22
+Entryway 17,33,27
+Dining Room 65,20,28
+Dining Room 45,3,6
+Loft 75,33,26
+Dining Room 79,46,16
+Walk-in Closet 66,29,42
+Wine Cellar 19,46,37
+Wine Cellar 7,14,1
+Kitchen 60,26,7
+Game Room 45,28,33
+Foyer 61,38,37
+Music Room 65,19,13
+Conservatory 8,5,18
+Attic 36,50,13
+Walk-in Closet 84,1,20
+Entryway 29,4,26
+Linen Closet 75,16,42
+Foyer 53,18,24
+Loft 81,45,43
+Closet 79,15,7
+Living Room 89,5,7
+Kitchen 86,39,11
+Den 13,4,13
+Pantry 80,24,2
+Foyer 37,5,8
+Walkway 4,33,23
+Sun Room 8,45,18
+Keeping Room 83,15,30
+Nook 19,36,44
+Breakfast Area 61,7,19
+Pantry 23,34,4
+Game Room 34,27,27
+Utility Room 74,38,35
+Keeping Room 25,11,3
+Sun Room 85,49,13
+Loft 83,38,34
+Walkway 83,13,8
+Spare Room 25,14,8
+Pantry 75,34,45
+Powder Room 9,38,5
+Mud Room 17,21,21
+Storage 55,26,47
+Theater 76,36,48
+Breakfast Area 50,49,31
+Powder Room 33,15,29
+Living Room 31,31,24
+Office 24,24,32
+Wine Cellar 1,29,10
+Bedroom 52,22,24
+Secret Room 53,10,48
+Conservatory 10,7,31
+Ballroom 32,22,39
+Nook 65,38,32
+Bathroom 55,16,1
+Bar 7,40,22
+Sun Room 7,12,23
+Pantry 81,30,26
+Attic 10,11,41
+Powder Room 13,39,8
+Walk-in Closet 4,19,6
+Laundry Room 17,1,27
+Keeping Room 16,21,6
+Guest Bathroom 36,46,42
+Utility Room 20,28,39
+Breakfast Area 65,37,5
+Nook 42,32,18
+Guest Bathroom 43,16,47
+Laundry Room 88,21,30
+Nursery 5,31,44
+Den 60,41,6
+Nursery 20,3,8
+Bedroom 74,12,36
+Spare Room 8,38,25
+Guest Bedroom 71,25,19
+Guest Bedroom 82,5,13
+Storage 18,6,4
+Mud Room 86,12,15
+Study 2,35,45
+Exercise Room 9,45,43
+Nook 55,15,10
+Walk-in Closet 75,43,40
+Powder Room 36,43,45
+Walk-in Closet 70,22,30
+Attic 67,29,22
+Game Room 27,22,24
+Storage 79,41,23
+Secret Room 82,6,48
+Storage 47,30,26
+Wine Cellar 39,14,38
+Pantry 31,14,11
+Living Room 63,9,6
+Ballroom 75,49,12
+Guest Bedroom 20,37,37
+Panic Room 77,32,48
+Ballroom 85,44,18
+Living Room 45,15,4
+Nursery 56,5,9
+Theater 10,3,17
+Study 16,42,9
+Bathroom 72,22,4
+Bonus Room 80,3,44
+Storage 81,34,35
+Guest Bedroom 70,13,46
+Music Room 6,4,1
+Breakfast Area 41,13,34
+Garage 80,13,13
+Panic Room 84,4,33
+Pantry 37,26,9
+Dining Room 22,8,10
+Walk-in Closet 76,23,4
+Nook 39,39,13
+Nursery 38,44,30
+Walkway 2,30,48
+Library 22,46,7
+Study 60,32,11
+Nursery 16,13,32
+Nook 31,37,28
+Attic 54,46,28
+Bedroom 27,24,21
+Nook 40,2,32
+Guest Bathroom 44,9,26
+Bedroom 49,44,25
+Walk-in Closet 17,2,35
+Attic 78,24,49
+Living Room 60,44,3
+Utility Room 40,23,5
+Attic 77,37,22
+Linen Closet 28,9,14
+Secret Room 56,25,46
+Library 24,41,42
+Secret Room 1,22,46
+Kitchen 37,22,2
+Basement 23,24,4
+Bonus Room 51,36,33
+Dining Room 29,14,32
+Mud Room 24,41,47
+Library 25,16,43
+Closet 80,4,35
+Bar 33,29,42
+Mud Room 54,9,12
+Walk-in Closet 2,36,23
+Spare Room 2,14,46
+Office 27,36,16
+Entryway 64,48,5
+Nursery 69,9,24
+Bonus Room 70,42,30
+Exercise Room 45,45,14
+Game Room 76,39,47
+Living Room 84,31,17
+Linen Closet 81,31,42
+Game Room 3,9,31
+Basement 7,22,26
+Nook 9,31,33
+Sun Room 9,18,34
+Bonus Room 17,20,50
+Nook 73,9,41
+Mud Room 26,16,6
+Den 50,42,8
+Foyer 56,39,25
+Garage 32,23,18
+Walk-in Closet 29,38,31
+Powder Room 42,27,24
+Exercise Room 36,7,45
+Hallway 32,38,43
+Ballroom 81,27,41
+Theater 29,41,35
+Keeping Room 64,31,38
+Wine Cellar 27,44,28
+Guest Bathroom 11,24,15
+Den 57,44,27
+Parlor 45,34,23
+Office 61,48,44
+Dining Room 31,44,35
+Secret Room 71,44,8
+Conservatory 24,41,25
+Office 55,22,45
+Bathroom 65,48,40
+Guest Bathroom 39,30,42
+Loft 76,46,17
+Spare Room 68,9,21
+Bonus Room 30,40,41
+Office 72,34,3
+Dining Room 75,31,48
+Closet 50,38,11
+Hallway 18,13,36
+Foyer 45,7,24
+Bonus Room 73,2,2
+Garage 69,18,5
+Basement 42,50,33
+Ballroom 52,19,26
+Spare Room 3,14,18
+Closet 33,50,44
+Guest Bathroom 75,32,48
+Breakfast Area 14,45,11
+Office 37,46,34
+Keeping Room,19,35
+Breakfast Area 83,10,4
+Loft 69,40,46
+Study 38,35,10
+Living Room 58,27,47
+Nursery 30,28,26
+Panic Room 64,37,46
+Sun Room 33,30,29
+Foyer 14,44,6
+Foyer 31,43,49
+Mud Room 39,3,3
+Dining Room 41,21,39
+Guest Bedroom 65,30,1
+Dining Room 73,27,19
+Walk-in Closet 11,37,27
+Basement 6,4,47
+Mud Room 15,14,47
+Bar 66,33,32
+Panic Room 65,1,49
+Nook 66,46,24
+Attic 29,40,41
+Attic 55,37,42
+Entryway 49,1,3
+Spare Room 69,13,46
+Hallway 33,35,11
+Garage 64,47,35
+Library 31,48,45
+Keeping Room 30,49,49
+Bathroom 26,49,26
+Music Room 77,10,9
+Walkway 66,4,16
+Bedroom 82,26,8
+Den 63,46,44
+Study 84,6,9
+Office 89,6,33
+Storage 9,50,41
+Linen Closet 53,37,15
+Linen Closet 63,14,46
+Hallway 45,12,2
+Loft 44,38,13
+Dining Room 68,36,24
+Utility Room 25,34,9
+Conservatory 32,2,32
+Hallway 61,17,7
+Parlor 4,38,45
+Wine Cellar 55,14,37
+Nook 67,37,40
+Spare Room 33,43,42
+Nook 26,25,45
+Powder Room 47,4,39
+Sun Room 13,17,4
+Storage 20,19,3
+Conservatory 72,43,29
+Pantry 77,37,30
+Office 64,36,29
+Pantry 63,45,13
+Pantry 30,44,28
+Mud Room 49,9,2
+Game Room 33,44,40
+Office 82,29,30
+Bar 36,49,26
+Nursery 35,37,30
+Nook 81,29,39
+Closet 7,22,23
+Theater 64,22,32
+Pantry 29,21,38
+Kitchen 11,21,29
+Garage 47,34,3
+Closet 9,14,11
+Guest Bedroom 63,2,26
+Foyer 50,40,10
+Guest Bathroom 50,30,16
+Hallway 58,39,28
+Mud Room 20,15,40
+Breakfast Area 49,42,24
+Walkway 70,17,44
+Music Room 63,1,43
+Basement 21,32,23
+Parlor 68,26,20
+Storage 36,16,46
+Linen Closet 30,39,17
+Ballroom 48,33,20
+Library 21,10,4
+Breakfast Area 47,31,8
+Bathroom 79,3,5
+Parlor 61,25,27
+Kitchen 57,38,18
+Bedroom 30,21,40
+Attic 6,26,10
+Library 53,9,4
+Living Room 16,13,44
+Theater 8,40,5
+Living Room 70,14,24
+Attic 20,19,3
+Walk-in Closet 78,24,6
+Den 81,28,34
+Sun Room 80,36,38
+Sun Room 5,16,16
+Kitchen 63,45,45
+Closet 38,6,41
+Walk-in Closet 59,34,41
+Storage 46,9,11
+Bedroom 77,10,32
+Utility Room 58,15,45
+Utility Room 76,23,44
+Bedroom 15,3,13
+Sun Room 37,33,14
+Powder Room 46,48,18
+Utility Room 9,38,43
+Conservatory 50,1,20
+Panic Room 68,28,1
+Utility Room 79,49,21
+Garage 57,18,2
+Guest Bedroom 73,21,25
+Music Room 33,39,33
+Office 8,9,46
+Living Room 69,18,5
+Foyer 59,4,42
+Spare Room,28,14
+Laundry Room 4,29,41
+Guest Bathroom 61,46,27
+Office 78,45,10
+Closet 30,39,27
+Keeping Room 46,25,45
+Walk-in Closet 12,15,2
+Storage 38,4,37
+Exercise Room 15,50,49
+Entryway 15,30,13
+Entryway 65,4,29
+Attic 53,25,3
+Living Room 24,30,5
+Game Room 14,36,20
+Panic Room 12,4,42
+Exercise Room 57,22,41
+Conservatory 69,2,48
+Nook 15,32,42
+Nursery 61,40,26
+Breakfast Area 45,19,24
+Music Room 41,34,28
+Library 62,32,25
+Utility Room 10,16,33
+Nursery 66,6,15
+Bedroom 78,13,39
+Theater 89,42,31
+Breakfast Area 15,16,46
+Exercise Room 77,27,17
+Loft 85,1,44
+Keeping Room 56,19,8
+Powder Room 56,19,48
+Panic Room 86,49,21
+Hallway 80,50,16
+Bar 15,24,49
+Nursery 57,47,5
+Theater 37,42,25
+Wine Cellar 85,46,27
+Utility Room 56,33,24
+Kitchen 55,42,1
+Attic 34,29,9
+Storage 23,15,1
+Wine Cellar 41,4,24
+Bathroom 60,10,7
+Parlor 5,20,9
+Game Room 20,46,9
+Ballroom 69,14,12
+Breakfast Area 48,14,30
+Secret Room 79,29,32
+Kitchen 77,40,12
+Game Room 32,1,37
+Loft 37,25,15
+Walkway 10,44,14
+Mud Room 61,15,18
+Library 17,46,25
+Guest Bathroom 83,24,34
+Living Room 23,21,36
+Study 72,34,9
+Kitchen 70,7,16
+Conservatory 21,3,25
+Panic Room 54,34,49
+Bedroom 44,28,46
+Breakfast Area 20,39,15
+Garage 19,5,39
+Pantry 42,20,35
+Bathroom 5,39,25
+Entryway 11,10,7
+Sun Room 50,38,10
+Exercise Room 18,8,47
+Bar 65,2,45
+Theater 83,14,38
+Keeping Room 36,4,9
+Bonus Room 48,31,38
+Mud Room 67,1,47
+Hallway 71,27,30
+Study 8,41,49
+Garage 65,11,31
+Spare Room 77,28,8
+Foyer 3,22,47
+Basement 77,9,25
+Storage 13,35,31
+Guest Bathroom 79,4,45
+Library 81,45,38
+Mud Room 8,6,14
+Kitchen 85,50,6
+Breakfast Area 46,7,20
+Bedroom 79,9,30
+Foyer 21,1,44
+Office 73,34,6
+Foyer 68,17,18
+Powder Room 57,29,13
+Entryway 7,15,40
+Linen Closet 82,28,48
+Walkway 53,23,27
+Walkway 73,49,21
+Walkway 47,28,23
+Breakfast Area 54,40,25
+Spare Room 62,21,1
+Conservatory 3,41,35
+Spare Room 72,9,20
+Loft 13,48,28
+Attic 5,47,9
+Basement 38,17,43
+Living Room 26,40,45
+Study 48,30,40
+Nursery 23,23,32
+Hallway 52,1,26
+Entryway 27,15,21
+Basement 19,33,23
+Storage 43,2,31
+Pantry 88,40,24
+Loft 43,40,2
+Office 52,33,44
+Wine Cellar 56,21,5
+Secret Room 52,40,31
+Kitchen 8,2,13
+Dining Room 15,27,45
+Den 46,19,46
+Nook 56,1,33
+Library 12,50,38
+Wine Cellar 12,40,50
+Keeping Room 11,25,1
+Game Room 22,40,15
+Conservatory 17,4,15
+Panic Room 57,22,37
+Pantry 84,28,36
+Walk-in Closet 32,21,10
+Walkway 27,34,19
+Library 56,24,38
+Guest Bathroom 10,39,12
+Nursery 7,20,31
+Dining Room 14,24,23
+Powder Room 16,45,38
+Loft 46,27,46
+Mud Room 57,22,44
+Dining Room 72,45,46
+Office 35,14,25
+Office 79,29,10
+Walkway 58,10,18
+Bar 43,16,24
+Walk-in Closet 61,31,16
+Bar 30,27,28
+Bar 61,37,49
+Wine Cellar 44,37,29
+Nook 85,12,6
+Living Room 64,5,22
+Walkway 75,3,49
+Conservatory 15,44,27
+Theater 5,16,43
+Theater 34,20,16
+Storage 11,28,28
+Guest Bathroom 27,42,38
+Basement 78,33,1
+Library 68,19,12
+Laundry Room 19,25,42
+Entryway 60,12,47
+Exercise Room 72,7,34
+Nook 22,3,37
+Keeping Room 6,37,40
+Foyer 9,28,24
+Game Room 82,20,18
+Game Room 86,1,4
+Office 22,13,27
+Nook 44,21,46
+Laundry Room 44,26,37
+Study 39,24,48
+Storage 61,26,37
+Guest Bedroom 86,31,21
+Living Room 65,11,6
+Pantry 50,44,2
+Wine Cellar 3,21,40
+Hallway 20,8,45
+Storage 4,46,16
+Pantry 56,7,2
+Walk-in Closet 35,41,17
+Mud Room 65,14,36
+Study 31,28,19
+Foyer 87,36,5
+Wine Cellar 40,13,13
+Bathroom 51,37,22
+Bedroom 60,5,32
+Panic Room 50,48,45
+Bonus Room 61,14,10
+Dining Room 8,1,21
+Secret Room 12,5,37
+Hallway 23,35,43
+Parlor 53,1,50
+Mud Room 72,20,11
+Guest Bathroom 51,26,42
+Ballroom 63,40,49
+Storage 25,1,7
+Mud Room 37,8,42
+Game Room 78,1,44
+Garage 22,35,5
+Game Room 16,35,46
+Hallway 22,32,4
+Spare Room 61,27,38
+Bedroom,11,29
+Bonus Room 6,41,19
+Conservatory 36,43,7
+Bonus Room 44,16,26
+Linen Closet 69,18,16
+Bedroom 88,11,48
+Attic 4,39,40
+Nursery 17,11,27
+Garage 52,22,2
+Exercise Room 64,12,30
+Breakfast Area 53,11,1
+Living Room 86,39,13
+Pantry 25,11,31
+Bar 47,45,4
+Loft 68,43,42
+Conservatory 80,12,34
+Spare Room 52,30,11
+Panic Room 56,44,30
+Bonus Room 68,10,20
+Living Room 32,48,36
+Linen Closet 33,46,23
+Exercise Room 67,7,33
+Mud Room 60,17,8
+Game Room 75,16,42
+Study 40,37,11
+Parlor 38,19,1
+Parlor 31,16,1
+Bar 32,31,8
+Living Room 59,34,13
+Guest Bedroom 57,18,3
+Office 39,14,10
+Library 35,7,12
+Guest Bedroom 58,17,21
+Secret Room 70,11,19
+Pantry 46,23,42
+Kitchen 4,22,35
+Study 52,47,44
+Hallway 10,35,32
+Conservatory 4,16,31
+Library 28,16,1
+Theater 54,22,6
+Entryway 68,11,29
+Den 31,4,50
+Guest Bathroom 53,7,50
+Spare Room 51,33,42
+Dining Room 16,17,49
+Closet 59,41,12
+Secret Room 3,36,47
+Pantry 6,25,45
+Conservatory 51,9,12
+Library 64,41,48
+Bedroom 9,40,42
+Mud Room 75,34,9
+Breakfast Area 89,49,16
+Guest Bathroom 64,21,43
+Guest Bedroom 46,44,43
+Ballroom 23,25,49
+Guest Bathroom 73,7,21
+Den 27,44,28
+Nursery 85,5,12
+Bathroom 36,23,36
+Office 19,33,43
+Entryway 31,29,45
+Den 21,45,14
+Panic Room 26,33,42
+Storage,6,38
+Walkway 78,19,28
+Nook 20,50,30
+Library 46,30,41
+Foyer 49,39,46
+Bar 76,3,12
+Walkway 63,8,23
+Entryway 57,6,43
+Music Room 1,30,13
+Foyer 24,19,7
+Guest Bedroom 48,8,25
+Hallway 87,49,24
+Sun Room 78,11,48
+Garage 60,45,43
+Kitchen 51,18,26
+Bar 9,16,38
+Bar 88,5,26
+Spare Room 28,18,38
+Library 38,48,9
+Game Room 56,21,39
+Closet 64,42,15
+Closet 20,19,46
+Bedroom 63,22,36
+Walk-in Closet 38,10,38
+Bedroom 7,16,23
+Guest Bathroom 6,11,35
+Living Room 49,5,20
+Kitchen 59,43,44
+Walkway 71,18,36
+Spare Room 80,18,29
+Linen Closet 40,46,50
+Breakfast Area 9,40,18
+Utility Room 60,33,18
+Den 78,2,35
+Entryway 21,9,35
+Laundry Room 58,36,5
+Parlor 84,50,21
+Kitchen 66,20,12
+Breakfast Area 77,2,30
+Utility Room 5,9,21
+Walkway 3,37,12
+Mud Room 71,29,45
+Linen Closet 56,33,38
+Exercise Room 27,49,46
+Storage 5,43,32
+Kitchen 75,43,48
+Storage 17,1,44
+Kitchen 23,36,2
+Office 76,33,40
+Entryway 19,15,48
+Breakfast Area 7,9,39
+Nursery 15,18,1
+Laundry Room 32,2,44
+Mud Room 73,15,28
+Dining Room 4,35,39
+Panic Room 72,6,31
+Walkway 13,19,32
+Bedroom 32,14,4
+Study 23,37,41
+Mud Room 52,37,39
+Study 54,4,44
+Wine Cellar 4,19,2
+Walkway 60,5,10
+Attic 47,5,47
+Loft 54,6,5
+Library 47,3,29
+Panic Room 14,50,17
+Keeping Room 58,33,6
+Music Room 9,11,46
+Hallway 26,45,50
+Game Room 67,49,20
+Dining Room 71,21,49
+Attic 60,38,49
+Storage 1,6,17
+Ballroom 33,10,39
+Breakfast Area 19,14,47
+Loft 73,35,41
+Attic 72,1,43
+Wine Cellar 8,14,36
+Garage 54,5,25
+Study 86,26,36
+Storage 88,33,9
+Closet 87,21,41
+Conservatory 35,4,23
+Utility Room 1,36,14
+Panic Room 81,6,7
+Den 2,31,3
+Exercise Room 10,43,25
+Storage 62,43,42
+Bonus Room 24,25,39
+Theater 33,49,30
+Foyer 35,3,40
+Parlor 23,11,8
+Utility Room 34,40,4
+Walk-in Closet 18,3,1
+Walk-in Closet 13,43,43
+Sun Room 19,17,28
+Spare Room 23,26,11
+Den 28,11,41
+Spare Room 6,36,6
+Foyer 27,8,13
+Guest Bedroom 35,21,6
+Game Room 38,16,38
+Bathroom 12,15,21
+Attic 85,12,21
+Garage 18,32,30
+Attic 37,31,20
+Basement 54,43,36
+Wine Cellar 58,35,29
+Walk-in Closet 62,25,14
+Guest Bathroom 70,16,10
+Walk-in Closet 80,23,49
+Basement 86,21,33
+Secret Room 13,7,26
+Bar 80,27,18
+Storage 10,4,36
+Library 43,2,44
+Attic 35,8,36
+Loft 52,1,40
+Bar 21,22,1
+Foyer 30,29,34
+Laundry Room 53,40,13
+Game Room 4,2,12
+Bonus Room 39,24,28
+Spare Room 56,11,32
+Bathroom 37,6,27
+Wine Cellar 24,7,19
+Basement 30,7,20
+Powder Room 60,27,46
+Guest Bathroom 23,28,18
+Pantry 66,23,2
+Nook 76,40,3
+Wine Cellar 48,17,25
+Linen Closet 37,35,24
+Foyer 80,48,49
+Storage 82,18,4
+Closet 4,38,50
+Nook 69,2,39
+Secret Room 6,48,17
+Ballroom 49,22,13
+Garage 51,8,9
+Theater 6,43,41
+Ballroom 87,5,38
+Breakfast Area 58,22,10
+Spare Room 14,21,35
+Parlor 63,18,28
+Exercise Room 76,49,36
+Hallway 37,31,8
+Guest Bathroom 56,10,39
+Panic Room 62,22,24
+Bar 6,46,22
+Nursery 28,38,20
+Theater 4,32,49
+Laundry Room,11,7
+Spare Room 65,19,12
+Entryway 84,15,49
+Conservatory 29,9,2
+Utility Room 84,20,26
+Secret Room 48,5,44
+Bar 48,36,13
+Conservatory 33,41,12
+Bar 3,3,22
+Mud Room 36,24,18
+Exercise Room 51,14,39
+Storage 30,3,4
+Sun Room 65,17,15
+Bathroom 22,43,41
+Bar 57,24,1
+Wine Cellar 32,43,46
+Study 87,9,31
+Entryway 25,16,23
+Hallway 3,45,48
+Study 50,31,6
+Game Room 77,14,26
+Sun Room 10,23,17
+Bathroom 13,50,17
+Exercise Room 5,50,30
+Kitchen 41,50,20
+Bedroom 1,25,15
+Foyer 17,12,41
+Sun Room 87,20,45
+Garage 14,26,48
+Powder Room 8,32,42
+Game Room 63,22,34
+Sun Room 70,14,20
+Utility Room 19,16,33
+Exercise Room 33,13,40
+Bonus Room 32,36,45
+Music Room 5,41,33
+Parlor 51,33,14
+Ballroom 6,41,44
+Attic 15,8,42
+Conservatory 23,11,42
+Hallway 39,24,37
+Conservatory 43,4,37
+Dining Room 42,47,7
+Theater 44,50,8
+Wine Cellar 42,30,15
+Linen Closet 41,34,47
+Basement 35,22,17
+Closet 60,8,31
+Walk-in Closet 30,16,34
+Wine Cellar 43,44,2
+Music Room 79,45,34
+Bathroom 42,11,46
+Guest Bathroom 4,19,28
+Pantry 40,23,8
+Panic Room 17,48,28
+Guest Bathroom 32,50,5
+Music Room 31,27,5
+Dining Room 78,28,31
+Attic 76,28,45
+Storage 48,22,50
+Laundry Room 6,34,23
+Foyer 58,33,40
+Sun Room 79,22,50
+Wine Cellar 16,27,28
+Mud Room 48,28,45
+Sun Room 18,39,20
+Study 15,20,35
+Storage 40,22,12
+Bonus Room 28,40,22
+Linen Closet 16,35,16
+Study 56,39,4
+Living Room 11,34,46
+Living Room 78,15,3
+Bathroom 52,47,39
+Entryway 16,48,18
+Game Room 46,28,12
+Bar 13,19,47
+Office 40,49,46
+Pantry 16,16,24
+Music Room 60,41,38
+Den 33,14,22
+Mud Room 44,23,21
+Conservatory 88,22,44
+Living Room 41,26,17
+Attic 16,37,19
+Spare Room 26,26,49
+Bonus Room 69,11,12
+Kitchen 58,28,23
+Library 50,8,26
+Study 62,19,11
+Pantry 36,19,10
+Laundry Room 43,7,38
+Keeping Room 74,39,10
+Attic 79,9,50
+Spare Room 60,1,1
+Walk-in Closet 27,17,7
+Panic Room 33,17,1
+Guest Bathroom 17,37,50
+Foyer 4,3,10
+Attic 18,22,27
+Storage 7,28,3
+Laundry Room 11,43,48
+Office 53,28,27
+Guest Bathroom 62,8,30
+Music Room 40,17,5
+Music Room 21,45,19
+Sun Room 62,49,38
+Wine Cellar 30,41,38
+Keeping Room 19,44,29
+Ballroom 12,38,45
+Dining Room 57,28,23
+Garage 81,23,2
+Theater 70,31,41
+Laundry Room 76,13,2
+Linen Closet 60,27,27
+Game Room 36,46,12
+Library 63,9,21
+Powder Room 26,23,14
+Library 1,17,44
+Kitchen 67,43,1
+Bonus Room 7,2,39
+Basement 74,22,39
+Wine Cellar 83,35,26
+Bedroom 34,15,39
+Living Room 40,42,13
+Guest Bedroom 33,50,16
+Pantry 60,30,27
+Office 12,48,12
+Sun Room 22,25,29
+Bathroom 62,40,34
+Closet 19,33,27
+Living Room 50,1,28
+Exercise Room 81,22,29
+Living Room 29,7,42
+Library 51,9,46
+Parlor 9,40,42
+Dining Room 81,46,50
+Storage 87,45,27
+Bedroom 46,21,9
+Wine Cellar 77,7,32
+Utility Room 43,46,17
+Music Room 18,17,14
+Mud Room 42,6,43
+Secret Room 32,42,31
+Basement 84,45,25
+Ballroom 73,15,6
+Game Room 73,15,50
+Entryway 35,15,42
+Bonus Room 74,38,44
+Music Room 28,25,17
+Nook 62,7,44
+Panic Room 37,26,49
+Secret Room 50,17,5
+Closet 46,2,15
+Bonus Room 58,44,43
+Spare Room 20,14,19
+Powder Room 10,35,35
+Pantry 10,48,34
+Theater 48,41,44
+Closet 29,10,40
+Hallway 34,25,49
+Bar 52,44,36
+Keeping Room 13,45,18
+Attic 2,37,38
+Game Room 89,1,1
+Kitchen 16,29,3
+Powder Room 40,8,30
+Dining Room 44,45,29
+Den 54,43,2
+Game Room 8,9,43
+Keeping Room 59,22,4
+Secret Room 44,27,45
+Panic Room 78,30,20
+Ballroom 42,11,48
+Closet 25,7,37
+Spare Room 47,16,39
+Garage 16,23,9
+Pantry 51,20,24
+Secret Room 63,49,42
+Spare Room 84,19,48
+Ballroom 88,16,32
+Den 37,25,45
+Guest Bathroom 65,6,3
+Panic Room 88,34,43
+Bedroom 57,42,2
+Spare Room 1,21,10
+Mud Room 74,5,15
+Den 75,22,24
+Conservatory 67,25,35
+Sun Room 81,32,4
+Study 10,44,6
+Theater 19,24,23
+Breakfast Area 21,38,25
+Den 6,8,44
+Game Room 13,6,29
+Study 77,16,39
+Guest Bedroom 9,38,16
+Panic Room 32,49,25
+Study 61,22,27
+Guest Bedroom 76,19,2
+Parlor 46,14,36
+Walkway 15,47,18
+Bathroom,28,34
+Living Room 38,2,46
+Living Room 75,9,4
+Linen Closet 84,30,14
+Keeping Room 77,23,41
+Conservatory 6,17,26
+Guest Bedroom 72,35,14
+Foyer 72,18,14
+Storage 42,46,7
+Ballroom 14,44,22
+Kitchen 14,28,9
+Closet 53,34,9
+Parlor 37,32,23
+Closet 18,24,38
+Bedroom 41,4,25
+Bar 56,8,37
+Walk-in Closet 67,13,22
+Library 75,46,3
+Bedroom 36,37,13
+Secret Room 35,13,27
+Keeping Room 47,40,25
+Attic 50,7,28
+Attic 33,8,24
+Linen Closet 77,7,26
+Loft 86,34,8
+Attic 8,40,13
+Entryway 83,1,2
+Pantry 44,30,28
+Theater 65,10,45
+Ballroom 64,14,11
+Dining Room 61,49,11
+Conservatory 84,36,9
+Sun Room 64,31,40
+Ballroom 84,35,15
+Garage 85,7,27
+Library 49,12,20
+Basement 73,44,31
+Conservatory 20,25,5
+Library 34,21,32
+Bar 84,33,34
+Loft 35,43,43
+Living Room 15,28,31
+Study 44,41,21
+Linen Closet 67,20,25
+Closet 78,45,13
+Laundry Room 60,28,13
+Secret Room 84,23,18
+Panic Room 49,33,5
+Guest Bedroom 39,16,21
+Guest Bedroom 69,45,15
+Game Room 30,34,30
+Conservatory 9,7,13
+Music Room 64,26,6
+Attic 17,25,9
+Spare Room 45,32,10
+Loft 4,8,12
+Office 38,43,47
+Den 83,26,19
+Closet 55,31,12
+Linen Closet 32,50,19
+Laundry Room 77,43,9
+Game Room 54,43,42
+Study 45,46,9
+Entryway 77,35,47
+Basement 11,29,27
+Powder Room 55,12,19
+Dining Room 38,5,30
+Nursery 53,8,23
+Guest Bedroom 85,27,12
+Exercise Room 50,40,6
+Breakfast Area 79,5,3
+Guest Bedroom 32,29,50
+Bonus Room 87,43,2
+Foyer 25,33,23
+Walkway 18,19,48
+Guest Bathroom 57,15,40
+Linen Closet 17,15,2
+Game Room 12,32,8
+Nook 38,29,17
+Attic 51,19,45
+Mud Room 84,38,32
+Bedroom 31,44,6
+Walkway 19,18,16
+Attic,9,14
+Game Room 48,9,48
+Powder Room 86,25,24
+Panic Room 4,11,35
+Walkway 40,43,44
+Closet 44,16,35
+Basement 18,35,15
+Garage 15,3,44
+Powder Room 3,16,13
+Pantry 55,34,46
+Bathroom 35,20,43
+Attic 82,41,4
+Kitchen 82,10,3
+Library 41,18,3
+Kitchen 47,2,15
+Nook 83,47,50
+Bar 79,27,27
+Study 36,48,17
+Walk-in Closet 54,28,40
+Utility Room 69,42,1
+Conservatory 56,27,17
+Office 65,42,7
+Foyer 47,15,19
+Storage 66,37,33
+Garage 8,5,46
+Nook 75,17,22
+Bar 58,5,43
+Storage 77,25,34
+Office 36,21,35
+Secret Room 49,5,45
+Wine Cellar 84,9,15
+Attic 22,43,11
+Foyer 75,15,17
+Theater 80,18,41
+Walk-in Closet 1,6,29
+Breakfast Area 17,1,42
+Entryway 33,16,50
+Office,1,22
+Nursery 73,19,40
+Conservatory 27,2,21
+Exercise Room 79,39,18
+Library 40,20,50
+Game Room 53,1,11
+Hallway 6,39,16
+Secret Room 38,26,4
+Nursery 14,50,32
+Hallway 13,1,29
+Breakfast Area 22,31,43
+Sun Room 30,36,32
+Utility Room 70,26,33
+Exercise Room 8,26,41
+Dining Room 56,27,35
+Hallway 30,4,9
+Library 11,24,6
+Panic Room 19,48,33
+Secret Room 55,19,1
+Linen Closet 83,17,22
+Nook 90,33,20
+Bedroom 56,4,10
+Secret Room 10,49,22
+Theater 75,21,39
+Foyer 71,2,50
+Breakfast Area 23,28,11
+Guest Bedroom 38,10,5
+Mud Room 1,10,48
+Office 67,2,46
+Exercise Room 46,34,26
+Bonus Room 38,19,28
+Office 43,3,11
+Bedroom 66,4,31
+Library 20,42,33
+Secret Room 76,7,9
+Game Room 25,20,25
+Attic 89,50,44
+Breakfast Area 43,1,50
+Library 74,29,48
+Wine Cellar 68,4,13
+Hallway 67,9,30
+Nursery 29,13,3
+Conservatory 52,8,2
+Conservatory 78,22,26
+Nook 88,7,24
+Breakfast Area 11,21,29
+Bedroom 10,31,48
+Powder Room 19,40,1
+Bathroom 39,38,32
+Garage 41,47,50
+Music Room 66,40,12
+Loft 74,12,17
+Office 28,19,23
+Secret Room 60,6,4
+Bonus Room 13,46,31
+Bathroom 30,43,20
+Bedroom 58,45,28
+Kitchen 74,26,4
+Laundry Room 26,23,20
+Closet 22,50,29
+Den 73,26,36
+Secret Room 25,48,45
+Garage 31,14,30
+Closet 41,40,10
+Exercise Room 80,8,34
+Parlor 60,10,11
+Garage,1,18
+Nook 13,15,31
+Sun Room 2,31,20
+Bar 8,11,45
+Sun Room 38,11,27
+Kitchen 35,22,36
+Bedroom 40,3,9
+Secret Room 86,30,18
+Loft 77,26,22
+Basement 16,16,10
+Nursery 71,21,43
+Bedroom 37,46,31
+Linen Closet 13,2,49
+Secret Room 2,23,12
+Bonus Room 81,11,42
+Bathroom 15,34,6
+Spare Room 38,4,33
+Breakfast Area 70,37,31
+Theater 57,32,39
+Sun Room 75,24,18
+Bathroom 21,19,24
+Kitchen 7,12,14
+Utility Room 23,48,12
+Office 51,32,3
+Foyer 20,28,32
+Breakfast Area 81,46,30
+Dining Room 85,3,42
+Breakfast Area 42,26,36
+Bathroom 76,38,43
+Bonus Room 22,48,10
+Walkway 21,2,3
+Walk-in Closet 69,24,11
+Secret Room 57,14,8
+Walkway 51,5,50
+Nursery 70,26,46
+Loft 64,7,18
+Utility Room 75,1,24
+Powder Room 63,20,1
+Game Room 58,30,17
+Living Room 1,1,38
+Study 71,11,7
+Kitchen 25,23,21
+Conservatory 74,19,38
+Parlor 12,37,3
+Laundry Room 15,9,13
+Entryway 75,46,28
+Panic Room 71,48,20
+Exercise Room 37,47,34
+Bedroom 13,14,15
+Sun Room 26,17,25
+Kitchen 13,32,21
+Garage 36,12,2
+Nook 23,43,12
+Parlor 35,44,40
+Study 26,4,21
+Linen Closet 14,21,21
+Linen Closet 62,6,18
+Parlor 41,37,9
+Dining Room 69,46,36
+Parlor 20,7,43
+Mud Room 80,36,16
+Parlor 6,6,30
+Loft 26,31,30
+Loft 59,1,14
+Secret Room 80,36,42
+Office 7,7,39
+Guest Bathroom 2,29,3
+Wine Cellar 36,45,29
+Theater 72,45,33
+Music Room 81,42,18
+Storage 37,24,33
+Keeping Room 21,23,28
+Bar 17,14,5
+Nook 82,46,12
+Music Room 62,43,27
+Theater 86,50,9
+Bedroom 81,25,46
+Game Room 52,39,40
+Linen Closet 18,2,14
+Attic 70,33,49
+Mud Room 13,35,34
+Bonus Room 26,1,41
+Spare Room 34,17,18
+Bathroom 34,26,29
+Basement 14,37,2
+Linen Closet 12,48,5
+Panic Room 2,4,35
+Bonus Room 64,50,17
+Bedroom 22,47,15
+Keeping Room 9,34,20
+Living Room 83,39,19
+Utility Room 45,30,7
+Bar 26,16,31
+Bathroom 1,4,49
+Hallway 17,18,16
+Hallway 27,1,12
+Mud Room 11,24,12
+Linen Closet 55,24,28
+Conservatory,44,13
+Den 42,33,5
+Breakfast Area 34,4,8
+Theater 67,39,12
+Den 67,22,47
+Game Room 60,1,35
+Guest Bathroom 26,49,47
+Office 33,28,5
+Powder Room 38,38,31
+Nursery 8,26,45
+Closet 81,8,8
+Keeping Room 2,28,11
+Parlor 78,29,22
+Conservatory 63,29,3
+Attic 42,23,12
+Kitchen 32,49,17
+Nursery 78,15,39
+Den 85,31,33
+Foyer,48,2
+Walkway 20,17,7
+Garage 68,25,16
+Loft 18,32,25
+Study 74,4,22
+Mud Room 62,33,23
+Ballroom 29,12,13
+Spare Room 66,15,30
+Secret Room 51,34,27
+Hallway 46,44,38
+Theater 63,44,5
+Bedroom 21,41,45
+Attic 83,22,43
+Powder Room 71,33,4
+Kitchen 43,9,11
+Walkway 31,40,1
+Kitchen 78,26,34
+Spare Room 89,33,9
+Foyer 6,19,26
+Wine Cellar 21,27,2
+Loft 63,37,42
+Foyer 67,7,47
+Exercise Room 49,1,10
+Breakfast Area 2,4,27
+Guest Bathroom 74,16,42
+Music Room 45,6,30
+Nursery 84,7,36
+Foyer 81,11,39
+Parlor 32,18,36
+Game Room 5,2,6
+Mud Room 46,33,21
+Kitchen 52,15,32
+Ballroom 54,42,24
+Panic Room 63,24,43
+Basement 80,48,3
+Sun Room 69,22,48
+Game Room 44,21,16
+Foyer 10,41,3
+Exercise Room 74,32,43
+Linen Closet 29,13,20
+Wine Cellar 73,35,2
+Guest Bathroom 85,11,41
+Exercise Room 22,40,45
+Living Room 18,44,29
+Walkway 85,36,5
+Theater 3,12,7
+Bedroom 45,2,50
+Loft,13,1
+Entryway 71,45,20
+Nursery 81,6,7
+Foyer 16,1,30
+Theater 62,34,21
+Guest Bedroom 56,24,30
+Walkway 61,28,5
+Walkway 87,49,12
+Basement 1,44,44
+Linen Closet 72,10,5
+Loft 71,14,33
+Bar 86,6,28
+Living Room 85,15,50
+Parlor 19,8,23
+Kitchen 54,43,46
+Wine Cellar 33,3,3
+Basement 13,49,47
+Loft 34,4,45
+Breakfast Area 33,9,12
+Bar 28,31,38
+Basement 67,22,1
+Mud Room 64,24,9
+Kitchen 44,7,30
+Guest Bathroom,3,15
+Secret Room 74,1,13
+Music Room 54,44,16
+Study 67,13,15
+Nook 10,36,14
+Spare Room 44,31,13
+Entryway 51,2,47
+Study 17,25,20
+Game Room,44,30
+Conservatory 1,26,20
+Living Room 6,17,28
+Theater 78,7,7
+Secret Room 45,28,8
+Office 31,30,25
+Storage 63,1,45
+Kitchen 49,40,7
+Exercise Room 13,33,32
+Secret Room 30,25,14
+Game Room 50,26,26
+Pantry 83,34,7
+Wine Cellar 64,12,35
+Hallway 79,16,39
+Laundry Room 89,1,6
+Parlor 72,12,12
+Loft 19,4,27
+Bedroom 65,12,24
+Breakfast Area 71,40,6
+Office 44,37,25
+Breakfast Area 37,34,10
+Exercise Room 17,20,9
+Linen Closet 35,15,30
+Panic Room 22,40,15
+Laundry Room 35,35,20
+Exercise Room 65,18,11
+Laundry Room 62,26,18
+Guest Bedroom 11,43,28
+Basement 45,10,45
+Keeping Room 53,15,48
+Ballroom 82,19,40
+Walk-in Closet 3,25,23
+Kitchen 73,39,49
+Foyer 69,40,6
+Living Room 4,49,21
+Walkway 45,41,11
+Library 9,4,46
+Secret Room 43,6,34
+Keeping Room 67,13,14
+Secret Room 29,5,40
+Kitchen 33,40,4
+Secret Room 72,12,11
+Conservatory 39,44,31
+Entryway 52,13,28
+Foyer 64,6,17
+Entryway 85,22,6
+Attic 24,29,12
+Kitchen 71,25,6
+Office 83,50,42
+Bar 38,26,18
+Closet 83,46,32
+Walkway 65,12,18
+Mud Room 85,32,16
+Secret Room 46,47,30
+Walkway 35,5,5
+Bar 60,13,34
+Bathroom 54,30,35
+Laundry Room 46,29,16
+Exercise Room 29,31,41
+Nook 28,32,5
+Living Room 20,29,12
+Wine Cellar 63,46,33
+Bedroom 8,3,44
+Exercise Room 31,3,42
+Linen Closet 44,6,23
+Theater 15,23,14
+Powder Room 65,33,48
+Wine Cellar 81,18,2
+Utility Room 66,34,29
+Breakfast Area 67,16,19
+Living Room 90,23,45
+Storage 70,50,48
+Ballroom 5,24,24
+Garage 20,5,31
+Dining Room 74,45,24
+Utility Room 47,26,21
+Closet 27,39,1
+Parlor 7,20,22
+Nook 4,14,29
+Study 82,39,25
+Garage 11,50,48
+Theater 41,19,13
+Linen Closet 57,36,17
+Bedroom 76,26,45
+Bedroom 47,50,12
+Game Room 29,43,9
+Living Room 61,2,20
+Game Room 70,14,10
