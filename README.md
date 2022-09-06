@@ -2,14 +2,19 @@
 The Cleaning Manager project allows for the user to import a list of rooms and the times they were cleaned in order to receive statistical information based on data provided. This statistical information can include the number of square feet remaining in vacuum bag after a certain point in time, the most frequently cleaned rooms, and a list detailing every single cleaning log event of an associated room. The main goal of this project was to try and provide this information efficiently to the user when they import large files.
 # Usage
 This project is written in java. To run this program, you need to have Java installed.
+
 Follow these steps to run the implementation:
+
 1. Open command prompt or git bash
 2. Type the following command to run the jar file: `java -jar CleaningManager.jar`
+
 After this, a menu in the command prompt or git bash should show up asking you to import some room and log files. After successfully importing the files, another menu will display with different options that you can use with the room and log files.
+
 ### Cleaning Manager Options:
 View The Most Frequently Cleaned Rooms: This option shows you a list of the rooms that have been cleaned the most. The option will prompt you for input based on how many rooms you want to see.
 
 View a Report of Cleanings by Room: This option shows you a full report of every room and each date that they have been cleaned. Rooms that have never been cleaned will also be listed but will just display “never cleaned.”
+
 View Estimated Remaining Vacuum Bag Life: This option tells you how much space is remaining inside a vacuum bag with a maximum capacity of 5280. This option will prompt you for a date of when the bag was lasted replaced and will then total up all the square footage cleaned past that date to alert you of when the bag should be replaced.
 # Design Requirements
 ### Programming Language
@@ -22,13 +27,17 @@ The overall design of this project contains 5 packages with a various amount of 
 
 **Manager:** This package contains two managers that manage the major functionalities of the cleaning manager.
 * The ReportManager class is responsible for reporting information based on the imported room and logs files. Information that can be reported includes the different rooms available and how often they have been cleaned.
-* The CleaningManager class is responsible for importing a list of rooms and cleaning events into a map which can then be used by the ReportManager to report all the information gathered. 
+* The CleaningManager class is responsible for importing a list of rooms and cleaning events into a map which can then be used by the ReportManager to report all the information gathered.
+
+
 **UI:** This package contains the CleaningMangerUI class. The CleaningMangerUI class provides a user interface which can allow for anyone to interact with managers. The user can use the CleaningMangerUI to import files containing rooms and cleaning events and then see different reports based on the files they imported.
 
 **Data:** The data package contains two classes that represent the room and cleaning events objects.
 * The RoomRecord class represents the rooms that are cleaned in the CleaningManager. Rooms come with an ID to identify them and a width and length to show how large they are. The code for this class was provided in a jar file
 * The CleaningLogEntry class represents the cleaning log entries which tell when a room was cleaned. Cleaning log entries come with a timestamp to tell when the event happened, the room that was cleaned, and percentage of that room cleaned. The code for this class was provided in a jar file.
-Factory: This package contains the DSAFactory class. The DSAFactory class gives quick access to different types of data structures that are used in the algorithms for the ReportManager and CleaningManager classes. A partial implementation for this class was provided and could be edited to use the appropriate data structures needed for this project.
+
+
+**Factory**: This package contains the DSAFactory class. The DSAFactory class gives quick access to different types of data structures that are used in the algorithms for the ReportManager and CleaningManager classes. A partial implementation for this class was provided and could be edited to use the appropriate data structures needed for this project.
 
 **IO:** This package contains the InputReader class. The InputReader class is used to read in the input files containing rooms and log entries. This class will read each room or cleaning log entry and put them into a list of RoomRecords and CleaningLogEntries which can then be used by the CleaningManger class. This code was provided in the form of a jar file.
 
