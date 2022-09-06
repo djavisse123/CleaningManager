@@ -8,6 +8,8 @@ Follow these steps to run the implementation:
 1. Open command prompt or git bash
 2. Type the following command to run the jar file: `java -jar CleaningManager.jar`
 
+Note: The Jar file is placed inside the input folder where you can use some of the input files to test out the CleaningManager.
+
 After this, a menu in the command prompt or git bash should show up asking you to import some room and log files. After successfully importing the files, another menu will display with different options that you can use with the room and log files.
 
 ### Cleaning Manager Options:
