@@ -24,8 +24,7 @@ The implementation of this project is required to be created in Java.
 ### UML Diagram
 The overall design of this project contains 5 packages with a various amount of classes in each package to make the Cleaning Manager work. The UML below shows all the different classes and each package they belong to.
 
-![CleaningManagerUML](https://user-images.githubusercontent.com/112775148/188530911-df0912c3-2817-4014-9668-e12ac7836464.png)
-
+![image11](https://user-images.githubusercontent.com/112775148/189508219-5b469a72-17fd-42e3-8c61-e000771f7b75.png)
 
 **Manager:** This package contains two managers that manage the major functionalities of the cleaning manager.
 * The ReportManager class is responsible for reporting information based on the imported room and logs files. Information that can be reported includes the different rooms available and how often they have been cleaned.
